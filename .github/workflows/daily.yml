@@ -33,8 +33,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install --no-cache-dir "pandas>=2.2,<3"
-          pip install --no-cache-dir -e .
+          pip install -e .
 
       - name: Run daily pipeline
         env:
