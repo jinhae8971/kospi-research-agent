@@ -62,20 +62,27 @@ jobs:
           else
             git commit -m "chore: daily report $(date -u +%F)"
             push_ok=false
-            for i in 1 2 3 4; do
+            for i in 1 2 3 4 5; do
+              # Try push first; if rejected, rebase onto latest main then retry
               if git push; then
-                echo "push succeeded"
+                echo "push succeeded on attempt $i"
                 push_ok=true
                 break
               fi
-              sleep $((2 ** i))
+              echo "push attempt $i failed — pulling with rebase..."
+              git fetch origin main
+              if ! git rebase origin/main; then
+                echo "::warning::rebase conflict detected — aborting rebase"
+                git rebase --abort || true
+              fi
+              # Exponential backoff: 4, 8, 16, 32, 64 seconds
+              sleep $((2 ** (i + 1)))
             done
             if [ "$push_ok" = false ]; then
-              echo "::error::git push failed after 4 retries"
+              echo "::error::git push failed after 5 retries (even with rebase)"
               exit 1
             fi
           fi
-
       - name: Notify failure
         if: failure()
         env:
