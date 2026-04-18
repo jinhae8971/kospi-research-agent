@@ -1,0 +1,343 @@
+{
+  "date": "2026-04-17",
+  "generated_at": "2026-04-18T00:31:13.656320Z",
+  "market_type": "KOSPI",
+  "gainers": [
+    {
+      "ticker": "077970",
+      "name": "STX엔진",
+      "market": "KOSPI",
+      "close": 44000.0,
+      "market_cap": 1766514772000.0,
+      "trading_value": 151684536000.0,
+      "volume": 3620387,
+      "change_pct_1d": 29.99,
+      "change_pct_nd": 29.99,
+      "price_n_days_ago": null,
+      "market_cap_rank": 196
+    },
+    {
+      "ticker": "011000",
+      "name": "진원생명과학",
+      "market": "KOSPI",
+      "close": 1017.0,
+      "market_cap": 92427916419.0,
+      "trading_value": 6680023909.0,
+      "volume": 6692917,
+      "change_pct_1d": 29.89,
+      "change_pct_nd": 29.89,
+      "price_n_days_ago": null,
+      "market_cap_rank": 650
+    },
+    {
+      "ticker": "019170",
+      "name": "신풍제약",
+      "market": "KOSPI",
+      "close": 14090.0,
+      "market_cap": 738576974980.0,
+      "trading_value": 78115617855.0,
+      "volume": 5739779,
+      "change_pct_1d": 26.48,
+      "change_pct_nd": 26.48,
+      "price_n_days_ago": null,
+      "market_cap_rank": 281
+    },
+    {
+      "ticker": "093370",
+      "name": "후성",
+      "market": "KOSPI",
+      "close": 13820.0,
+      "market_cap": 1482268660600.0,
+      "trading_value": 424659072485.0,
+      "volume": 31327210,
+      "change_pct_1d": 22.3,
+      "change_pct_nd": 22.3,
+      "price_n_days_ago": null,
+      "market_cap_rank": 206
+    },
+    {
+      "ticker": "082740",
+      "name": "한화엔진",
+      "market": "KOSPI",
+      "close": 56100.0,
+      "market_cap": 4681384666200.0,
+      "trading_value": 287306058650.0,
+      "volume": 5143586,
+      "change_pct_1d": 16.39,
+      "change_pct_nd": 16.39,
+      "price_n_days_ago": null,
+      "market_cap_rank": 109
+    }
+  ],
+  "analyses": [
+    {
+      "ticker": "077970",
+      "name": "STX엔진",
+      "pump_thesis": "조선·방산 엔진 섹터 전반의 테마 모멘텀과 K방산 하이브리드 추진체계 탑재 기대감이 맞물려 단일 거래일 상한가(+30%) 달성",
+      "drivers": [
+        "한화엔진 신고가 경신 등 조선·엔진주 섹터 동반 급등 흐름 속 동종업종 수혜 기대감 확산 — 뉴스에서 '조선·엔진주 뜨겁네, 한화엔진 18% 급등' 언급",
+        "K방산 자주포에 하이브리드 심장(엔진) 탑재 관련 보도로 방산 엔진 수요 증가 기대감 부각",
+        "HD현대마린엔진의 엔진 숏티지·초호황 보도가 엔진 섹터 전반의 수급 타이트 이슈를 부각시켜 STX엔진 동반 매수세 유입"
+      ],
+      "risks": [
+        "섹터 테마 추종 매수로 실제 수주 계약 또는 실적 개선 확인 없이 급등한 것으로, 재료 소멸 시 빠른 되돌림 위험",
+        "시가총액 순위 196위의 중형주로 거래대금 대비 유동성이 제한적이어서 외국인·기관 차익실현 시 주가 변동성 극대화 위험",
+        "종전 협상 신중론 등 거시 불확실성으로 방산 테마 전반의 투자 심리가 빠르게 냉각될 가능성"
+      ],
+      "sector_tags": [
+        "조선",
+        "방산"
+      ],
+      "confidence": 0.62,
+      "news_used": [
+        {
+          "title": "[애프터마켓 브리핑] 종전 협상 신중론…코스피 6200선 반납",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0000505136&office_id=374&code=077970&page=1&sm=title_entity_id.basic",
+          "source": "SBS Biz",
+          "published_at": "2026.04.17 16:51"
+        },
+        {
+          "title": "조선·엔진주 뜨겁네…18% 급등 한화엔진, 신고가 경신 [매경 자이앤트...",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0005667569&office_id=009&code=077970&page=1&sm=title_entity_id.basic",
+          "source": "매일경제",
+          "published_at": "2026.04.17 15:25"
+        },
+        {
+          "title": "[서울데이터랩]HD현대에너지솔루션 30.00% 상한가 금일 증시 상승률...",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0003632311&office_id=081&code=077970&page=1&sm=title_entity_id.basic",
+          "source": "서울신문",
+          "published_at": "2026.04.03 15:58"
+        },
+        {
+          "title": "숨소리 죽이고 다가가는 자주포… ‘하이브리드 심장’ 탑재하는 K방...",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0001154068&office_id=366&code=077970&page=1&sm=title_entity_id.basic",
+          "source": "조선비즈",
+          "published_at": "2026.04.03 14:42"
+        },
+        {
+          "title": "HD현대마린엔진, 올 영업익 두 배로..\"엔진 숏티지·中 수주로 초호황...",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0005500993&office_id=014&code=077970&page=1&sm=title_entity_id.basic",
+          "source": "파이낸셜뉴스",
+          "published_at": "2026.04.01 15:29"
+        }
+      ]
+    },
+    {
+      "ticker": "011000",
+      "name": "진원생명과학",
+      "pump_thesis": "코로나19 신규 변이 바이러스 재확산 우려로 DNA 백신 플랫폼 보유 기업으로서 테마 수혜 기대감에 상한가(+30%) 기록",
+      "drivers": [
+        "코로나 변이 바이러스 재확산 조짐 관련 보도가 집중되며 백신·진단키트 관련주 전반에 테마 매수세 유입",
+        "진원생명과학은 DNA 기반 코로나 백신 개발 이력이 있어 변이 대응 백신 수요 기대감의 직접 수혜주로 부각"
+      ],
+      "risks": [
+        "시가총액 약 924억 원의 소형주로 유동성이 매우 낮아 소규모 매수세에도 상한가 도달이 용이하며, 재료 약화 시 급락 위험 높음",
+        "코로나 관련 테마주 특성상 실제 임상 진전·정부 계약 등 구체적 모멘텀 없이 뉴스 사이클에만 의존해 지속성이 극히 불투명",
+        "과거 코로나 테마 급등 후 장기 하락 전례가 있어 단기 추격 매수 시 고점 매수 위험 상존"
+      ],
+      "sector_tags": [
+        "제약",
+        "바이오"
+      ],
+      "confidence": 0.55,
+      "news_used": [
+        {
+          "title": "코로나 변이 ‘재확산’ 우려…진단키트·백신株 줄줄이 상한가 [이런...",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0004611991&office_id=011&code=011000&page=1&sm=title_entity_id.basic",
+          "source": "서울경제",
+          "published_at": "2026.04.18 06:29"
+        },
+        {
+          "title": "코로나 변이 확산 조짐에 관련株 ‘들썩’…신풍제약 26% 급등",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0000342095&office_id=449&code=011000&page=1&sm=title_entity_id.basic",
+          "source": "채널A",
+          "published_at": "2026.04.17 16:54"
+        },
+        {
+          "title": "코로나 변이 확산 조짐에 관련株 '들썩'…신풍제약 26% 급등 마감(...",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0013894514&office_id=003&code=011000&page=1&sm=title_entity_id.basic",
+          "source": "뉴시스",
+          "published_at": "2026.04.17 16:37"
+        },
+        {
+          "title": "코로나 변이 확산 조짐에 관련株 '들썩'…신풍제약 26% 급등 마감(...",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0013894514&office_id=003&code=011000&page=1&sm=title_entity_id.basic",
+          "source": "뉴시스",
+          "published_at": "2026.04.17 16:37"
+        },
+        {
+          "title": "신풍제약 22% 급등…코로나 변이 확산 조짐에 관련주 ↑",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0013893356&office_id=003&code=011000&page=1&sm=title_entity_id.basic",
+          "source": "뉴시스",
+          "published_at": "2026.04.17 10:00"
+        }
+      ]
+    },
+    {
+      "ticker": "019170",
+      "name": "신풍제약",
+      "pump_thesis": "코로나19 신규 변이 재확산 우려로 코로나 치료제 피라맥스 보유 기업으로서 테마 매수세 집중, 26% 급등",
+      "drivers": [
+        "코로나 변이 확산 조짐 보도가 집중되며 신풍제약의 코로나 치료제 피라맥스(Pyramax) 수요 부활 기대감 재점화 — 복수 언론에서 '신풍제약 26% 급등' 직접 언급",
+        "진단키트·백신주 전반의 동반 상한가 흐름 속 코로나 치료제 대표주로서 섹터 대장주 역할 수행"
+      ],
+      "risks": [
+        "피라맥스의 코로나19 치료 효과에 대한 임상적 근거가 논란이 있었으며, 실제 정부 구매 계약이나 긴급사용승인 없이 테마성 급등에 그칠 위험",
+        "코로나 변이 재확산 우려가 실제 대규모 유행으로 이어지지 않을 경우 단기 되돌림 폭이 클 수 있으며, 과거 2021년 피라맥스 테마 급등 후 80% 이상 하락한 전례 존재",
+        "외국인 및 기관 투자자의 차익실현 매물 출회 시 개인 투자자 손실 집중 위험"
+      ],
+      "sector_tags": [
+        "제약"
+      ],
+      "confidence": 0.6,
+      "news_used": [
+        {
+          "title": "코로나 변이 ‘재확산’ 우려…진단키트·백신株 줄줄이 상한가 [이런...",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0004611991&office_id=011&code=019170&page=1&sm=title_entity_id.basic",
+          "source": "서울경제",
+          "published_at": "2026.04.18 06:29"
+        },
+        {
+          "title": "코로나 변이 확산 조짐에 관련株 ‘들썩’…신풍제약 26% 급등",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0000342095&office_id=449&code=019170&page=1&sm=title_entity_id.basic",
+          "source": "채널A",
+          "published_at": "2026.04.17 16:54"
+        },
+        {
+          "title": "코로나 변이 확산 조짐에 관련株 '들썩'…신풍제약 26% 급등 마감(...",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0013894514&office_id=003&code=019170&page=1&sm=title_entity_id.basic",
+          "source": "뉴시스",
+          "published_at": "2026.04.17 16:37"
+        },
+        {
+          "title": "코로나 변이 확산 조짐에 관련株 '들썩'…신풍제약 26% 급등 마감(...",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0013894514&office_id=003&code=019170&page=1&sm=title_entity_id.basic",
+          "source": "뉴시스",
+          "published_at": "2026.04.17 16:37"
+        },
+        {
+          "title": "신풍제약 22% 급등…코로나 변이 확산 조짐에 관련주 ↑",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0013893356&office_id=003&code=019170&page=1&sm=title_entity_id.basic",
+          "source": "뉴시스",
+          "published_at": "2026.04.17 10:00"
+        }
+      ]
+    },
+    {
+      "ticker": "093370",
+      "name": "후성",
+      "pump_thesis": "리튬 가격 상승 및 2차전지 소재 섹터 랠리 재개 기대감으로 전해질 소재 대표주인 후성이 22% 급등",
+      "drivers": [
+        "리튬 가격 상승 재료가 부각되며 리튬 관련 2차전지 소재주 전반에 매수세 유입 — 뉴스에서 '리튬 가격 상승에 관련주 강세, 후성 20%대 급등' 직접 언급",
+        "IT·반도체·이차전지 상승 랠리 주도 뉴스 등 2차전지 섹터 전반의 투자심리 개선으로 후성이 전해질·불소화합물 소재 대표주로서 수혜 집중",
+        "거래량 3,100만 주 이상의 폭발적 거래 증가로 단기 수급 쏠림 현상 확인"
+      ],
+      "risks": [
+        "리튬 가격 반등이 일시적 수급 이슈에 불과할 경우 주가 상승의 지속성 훼손 우려 — 중국발 리튬 공급 과잉 구조는 단기간에 해소되기 어려움",
+        "후성의 과거 실적이 2차전지 소재 업황 악화로 부진했던 점을 감안 시 현 주가가 선행 기대치를 과도하게 반영할 위험",
+        "외국인 투자자 비중 변화 및 기관 차익실현 압력으로 단기 급등 후 조정 위험"
+      ],
+      "sector_tags": [
+        "2차전지",
+        "화학"
+      ],
+      "confidence": 0.7,
+      "news_used": [
+        {
+          "title": "IT·반도체·이차전지 상승 랠리 주도…삼성전기, LG이노텍 신고가 돌....",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0005667709&office_id=009&code=093370&page=1&sm=title_entity_id.basic",
+          "source": "매일경제",
+          "published_at": "2026.04.17 17:51"
+        },
+        {
+          "title": "[애프터마켓 브리핑] 종전 협상 신중론…코스피 6200선 반납",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0000505136&office_id=374&code=093370&page=1&sm=title_entity_id.basic",
+          "source": "SBS Biz",
+          "published_at": "2026.04.17 16:51"
+        },
+        {
+          "title": "코스피, ‘종전협상 관망세’에 6191.92 하락 마감…코스닥은 올라",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0005667584&office_id=009&code=093370&page=1&sm=title_entity_id.basic",
+          "source": "매일경제",
+          "published_at": "2026.04.17 15:48"
+        },
+        {
+          "title": "리튬 가격 상승에 관련주 강세…후성 20%대 급등",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0013893815&office_id=003&code=093370&page=1&sm=title_entity_id.basic",
+          "source": "뉴시스",
+          "published_at": "2026.04.17 11:55"
+        },
+        {
+          "title": "[서울데이터랩]금일 코스피 거래량 1위 남선알미늄 거래대금 4,068억...",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0003635144&office_id=081&code=093370&page=1&sm=title_entity_id.basic",
+          "source": "서울신문",
+          "published_at": "2026.04.14 13:07"
+        }
+      ]
+    },
+    {
+      "ticker": "082740",
+      "name": "한화엔진",
+      "pump_thesis": "조선업 호황 지속과 신용등급 전망 '긍정적' 상향, 메리츠 목표가 상향 등 복합 펀더멘털 개선 재료가 맞물려 신고가 경신하며 16% 급등",
+      "drivers": [
+        "한국신용평가가 한화엔진의 신용등급 전망을 '긍정적'으로 상향 조정 — 조선업 훈풍 수혜 반영, 재무구조 개선 공인",
+        "메리츠증권이 고수익성 구조적 상승 전망과 함께 목표주가를 상향 — 기관 투자자 매수 명분 강화",
+        "엔진 숏티지 및 글로벌 선박 발주 증가로 중장기 수주 가시성 높아진 가운데 신고가 경신으로 기술적 저항선 돌파 후 추가 매수세 유입"
+      ],
+      "risks": [
+        "신고가 경신 이후 차익실현 매물 출회 부담이 증가하며 단기 조정 위험 존재 — 밸류에이션이 피어 대비 프리미엄 영역 진입 가능성",
+        "조선업 발주 사이클이 정점을 지날 경우 엔진 수요 둔화로 실적 모멘텀 약화 위험",
+        "원자재(철강, 특수합금) 가격 변동 및 환율 변화에 따른 원가 부담 증가 위험"
+      ],
+      "sector_tags": [
+        "조선"
+      ],
+      "confidence": 0.82,
+      "news_used": [
+        {
+          "title": "IT·반도체·이차전지 상승 랠리 주도…삼성전기, LG이노텍 신고가 돌....",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0005667709&office_id=009&code=082740&page=1&sm=title_entity_id.basic",
+          "source": "매일경제",
+          "published_at": "2026.04.17 17:51"
+        },
+        {
+          "title": "조선·엔진주 뜨겁네…18% 급등 한화엔진, 신고가 경신 [매경 자이앤트...",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0005667569&office_id=009&code=082740&page=1&sm=title_entity_id.basic",
+          "source": "매일경제",
+          "published_at": "2026.04.17 15:25"
+        },
+        {
+          "title": "'조선업 훈풍' 올라탄 한화엔진, 신용등급 올랐다",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0000082796&office_id=293&code=082740&page=1&sm=title_entity_id.basic",
+          "source": "블로터",
+          "published_at": "2026.04.15 13:29"
+        },
+        {
+          "title": "한신평, 한화엔진 신용등급 전망 '긍정적' 상향",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0005507850&office_id=014&code=082740&page=1&sm=title_entity_id.basic",
+          "source": "파이낸셜뉴스",
+          "published_at": "2026.04.15 09:13"
+        },
+        {
+          "title": "한화엔진, 고수익성 레벨 향해 구조적 상승 전망…목표가↑-메리츠",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0006257413&office_id=018&code=082740&page=1&sm=title_entity_id.basic",
+          "source": "이데일리",
+          "published_at": "2026.04.15 07:55"
+        }
+      ]
+    }
+  ],
+  "narrative": {
+    "current_narrative": "한국 시장은 조선·방산 엔진 섹터의 펀더멘털 개선과 코로나 변이 재확산 우려로 촉발된 바이오·제약 테마 매수세, 그리고 2차전지 소재 반등 기대감이 동시에 분출되는 다중 모멘텀 장세를 연출하고 있다.",
+    "hot_sectors": [
+      "조선",
+      "방산",
+      "제약",
+      "바이오",
+      "2차전지"
+    ],
+    "cooling_sectors": [],
+    "investment_insight": "데이터가 1일치에 불과해 신뢰도가 낮음을 전제하되, 조선 섹터(한화엔진 confidence 0.82)는 신용등급 전망 상향·목표가 상향 등 펀더멘털 근거가 명확하므로 단기 비중 확대를 우선 검토할 만하다. 제약·바이오(진원생명과학·신풍제약)는 코로나 변이 테마 특성상 이슈 소멸 시 급락 위험이 크고 confidence가 0.55~0.60에 불과하므로 모멘텀 추종보다는 빠른 차익 실현 위주의 단기 접근이 적절하다. 2차전지(후성) 반등 지속 여부는 중국 리튬 가격 주간 동향 및 외국인 순매수 전환 여부를 추가 확인한 뒤 포지션 구축 여부를 결정하며, 해당 지표가 반등하지 않으면 현재 읽기는 무효화된다.",
+    "week_over_week_change": "금일 단 1일치 데이터만 존재하여 전주 대비 섹터 로테이션을 통계적으로 판단하기 어려우나, 조선(신고가·목표가 상향)과 방산(하이브리드 추진체계 테마)이 동반 강세를 보이고 있는 점은 K방산 수출 사이클 연장 기대를 반영한 새로운 흐름으로 해석된다."
+  }
+}
