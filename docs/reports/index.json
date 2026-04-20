@@ -2,32 +2,32 @@
   {
     "date": "2026-04-17",
     "market": "KOSPI",
-    "narrative_tagline": "한국 시장은 현재 조선·방산 엔진 섹터의 구조적 수요 급증과 코로나 변이 재확산 우려에 따른 바이오·제약 테마, 그리고 리튬 가격 반등에 기반한 2차전지 소재 섹터를 동시에 강하게 보상하고 있다.",
+    "narrative_tagline": "한국 증시는 현재 반도체 파운드리 공급 부족과 중동 지정학적 긴장 고조를 배경으로 반도체·방산 섹터에 수급이 집중되며, 실적·밸류에이션 재평가 모멘텀이 주도하는 장세를 연출하고 있다.",
     "top5": [
-      {
-        "ticker": "077970",
-        "name": "STX엔진",
-        "change_pct_nd": 29.99
-      },
       {
         "ticker": "011000",
         "name": "진원생명과학",
-        "change_pct_nd": 29.89
+        "change_pct_nd": 29.99
       },
       {
-        "ticker": "019170",
-        "name": "신풍제약",
-        "change_pct_nd": 26.48
+        "ticker": "003010",
+        "name": "혜인",
+        "change_pct_nd": 29.94
       },
       {
-        "ticker": "093370",
-        "name": "후성",
-        "change_pct_nd": 22.3
+        "ticker": "000990",
+        "name": "DB하이텍",
+        "change_pct_nd": 18.52
       },
       {
-        "ticker": "082740",
-        "name": "한화엔진",
-        "change_pct_nd": 16.39
+        "ticker": "010820",
+        "name": "퍼스텍",
+        "change_pct_nd": 16.47
+      },
+      {
+        "ticker": "012030",
+        "name": "DB",
+        "change_pct_nd": 15.45
       }
     ]
   }
