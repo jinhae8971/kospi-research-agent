@@ -1,0 +1,5697 @@
+{
+  "date": "2026-04-20",
+  "fetched_at": "2026-04-21T22:40:34.788983Z",
+  "stocks": [
+    {
+      "ticker": "005930",
+      "name": "삼성전자",
+      "close": 219000.0,
+      "market_cap": 1280335015152000.0,
+      "trading_value": 3656410642186.0
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "close": 1224000.0,
+      "market_cap": 872347694760000.0,
+      "trading_value": 4275047284191.0
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
+      "close": 478000.0,
+      "market_cap": 111852000000000.0,
+      "trading_value": 636131092500.0
+    },
+    {
+      "ticker": "005380",
+      "name": "현대차",
+      "close": 546000.0,
+      "market_cap": 111797740236000.0,
+      "trading_value": 511279812500.0
+    },
+    {
+      "ticker": "402340",
+      "name": "SK스퀘어",
+      "close": 718000.0,
+      "market_cap": 94746121148000.0,
+      "trading_value": 332265309500.0
+    },
+    {
+      "ticker": "034020",
+      "name": "두산에너빌리티",
+      "close": 115700.0,
+      "market_cap": 74112924592200.0,
+      "trading_value": 547693745650.0
+    },
+    {
+      "ticker": "207940",
+      "name": "삼성바이오로직스",
+      "close": 1588000.0,
+      "market_cap": 73510030188000.0,
+      "trading_value": 76167660500.0
+    },
+    {
+      "ticker": "012450",
+      "name": "한화에어로스페이스",
+      "close": 1391000.0,
+      "market_cap": 71724690791000.0,
+      "trading_value": 227528698500.0
+    },
+    {
+      "ticker": "000270",
+      "name": "기아",
+      "close": 160000.0,
+      "market_cap": 62466079680000.0,
+      "trading_value": 120778479350.0
+    },
+    {
+      "ticker": "329180",
+      "name": "HD현대중공업",
+      "close": 576000.0,
+      "market_cap": 60457665600000.0,
+      "trading_value": 427880990740.0
+    },
+    {
+      "ticker": "105560",
+      "name": "KB금융",
+      "close": 160400.0,
+      "market_cap": 59805212982000.0,
+      "trading_value": 95276385700.0
+    },
+    {
+      "ticker": "009150",
+      "name": "삼성전기",
+      "close": 772000.0,
+      "market_cap": 57663533312000.0,
+      "trading_value": 815734338000.0
+    },
+    {
+      "ticker": "006400",
+      "name": "삼성SDI",
+      "close": 645000.0,
+      "market_cap": 51977666850000.0,
+      "trading_value": 1552350939500.0
+    },
+    {
+      "ticker": "032830",
+      "name": "삼성생명",
+      "close": 256000.0,
+      "market_cap": 51200000000000.0,
+      "trading_value": 53102219250.0
+    },
+    {
+      "ticker": "028260",
+      "name": "삼성물산",
+      "close": 304000.0,
+      "market_cap": 49299370224000.0,
+      "trading_value": 94330615070.0
+    },
+    {
+      "ticker": "055550",
+      "name": "신한지주",
+      "close": 99800.0,
+      "market_cap": 47370505227800.0,
+      "trading_value": 57366507000.0
+    },
+    {
+      "ticker": "068270",
+      "name": "셀트리온",
+      "close": 203000.0,
+      "market_cap": 45053466983000.0,
+      "trading_value": 90987029000.0
+    },
+    {
+      "ticker": "012330",
+      "name": "현대모비스",
+      "close": 447000.0,
+      "market_cap": 40557464601000.0,
+      "trading_value": 146134604250.0
+    },
+    {
+      "ticker": "042660",
+      "name": "한화오션",
+      "close": 131200.0,
+      "market_cap": 40201437292800.0,
+      "trading_value": 248852581250.0
+    },
+    {
+      "ticker": "006800",
+      "name": "미래에셋증권",
+      "close": 68800.0,
+      "market_cap": 38205768870400.0,
+      "trading_value": 150290860400.0
+    },
+    {
+      "ticker": "267260",
+      "name": "HD현대일렉트릭",
+      "close": 1058000.0,
+      "market_cap": 38137868830000.0,
+      "trading_value": 210447921000.0
+    },
+    {
+      "ticker": "010130",
+      "name": "고려아연",
+      "close": 1670000.0,
+      "market_cap": 34857858230000.0,
+      "trading_value": 26881769000.0
+    },
+    {
+      "ticker": "086790",
+      "name": "하나금융지주",
+      "close": 123000.0,
+      "market_cap": 34234075122000.0,
+      "trading_value": 67268088000.0
+    },
+    {
+      "ticker": "035420",
+      "name": "NAVER",
+      "close": 214000.0,
+      "market_cap": 33566464532000.0,
+      "trading_value": 116462158250.0
+    },
+    {
+      "ticker": "005490",
+      "name": "POSCO홀딩스",
+      "close": 421500.0,
+      "market_cap": 33400303630500.0,
+      "trading_value": 424108760250.0
+    },
+    {
+      "ticker": "009540",
+      "name": "HD한국조선해양",
+      "close": 427500.0,
+      "market_cap": 30255507090000.0,
+      "trading_value": 93849649477.0
+    },
+    {
+      "ticker": "015760",
+      "name": "한국전력",
+      "close": 46000.0,
+      "market_cap": 29530347542000.0,
+      "trading_value": 76693963025.0
+    },
+    {
+      "ticker": "042700",
+      "name": "한미반도체",
+      "close": 295000.0,
+      "market_cap": 28117099000000.0,
+      "trading_value": 144908334500.0
+    },
+    {
+      "ticker": "034730",
+      "name": "SK",
+      "close": 386500.0,
+      "market_cap": 28022294709500.0,
+      "trading_value": 53259609250.0
+    },
+    {
+      "ticker": "298040",
+      "name": "효성중공업",
+      "close": 3002000.0,
+      "market_cap": 27992293096000.0,
+      "trading_value": 107477330000.0
+    },
+    {
+      "ticker": "010120",
+      "name": "LS ELECTRIC",
+      "close": 184700.0,
+      "market_cap": 27705000000000.0,
+      "trading_value": 145696329400.0
+    },
+    {
+      "ticker": "051910",
+      "name": "LG화학",
+      "close": 389500.0,
+      "market_cap": 27495717598500.0,
+      "trading_value": 173245734750.0
+    },
+    {
+      "ticker": "010140",
+      "name": "삼성중공업",
+      "close": 30200.0,
+      "market_cap": 26576000000000.0,
+      "trading_value": 230136459025.0
+    },
+    {
+      "ticker": "316140",
+      "name": "우리금융지주",
+      "close": 35800.0,
+      "market_cap": 26279932256000.0,
+      "trading_value": 43754407150.0
+    },
+    {
+      "ticker": "272210",
+      "name": "한화시스템",
+      "close": 131400.0,
+      "market_cap": 24824007714600.0,
+      "trading_value": 85565323950.0
+    },
+    {
+      "ticker": "064350",
+      "name": "현대로템",
+      "close": 221500.0,
+      "market_cap": 24175017899500.0,
+      "trading_value": 162291232866.0
+    },
+    {
+      "ticker": "000150",
+      "name": "두산",
+      "close": 1409000.0,
+      "market_cap": 22817113515000.0,
+      "trading_value": 101014986500.0
+    },
+    {
+      "ticker": "003670",
+      "name": "포스코퓨처엠",
+      "close": 256500.0,
+      "market_cap": 22814705430000.0,
+      "trading_value": 186518816250.0
+    },
+    {
+      "ticker": "096770",
+      "name": "SK이노베이션",
+      "close": 133500.0,
+      "market_cap": 22568547198000.0,
+      "trading_value": 154182885300.0
+    },
+    {
+      "ticker": "035720",
+      "name": "카카오",
+      "close": 48950.0,
+      "market_cap": 21684898705250.0,
+      "trading_value": 64251497000.0
+    },
+    {
+      "ticker": "017670",
+      "name": "SK텔레콤",
+      "close": 100500.0,
+      "market_cap": 21586400326500.0,
+      "trading_value": 108845831950.0
+    },
+    {
+      "ticker": "000810",
+      "name": "삼성화재",
+      "close": 468000.0,
+      "market_cap": 20895017364000.0,
+      "trading_value": 65162640470.0
+    },
+    {
+      "ticker": "066570",
+      "name": "LG전자",
+      "close": 126600.0,
+      "market_cap": 20621416594200.0,
+      "trading_value": 75658293700.0
+    },
+    {
+      "ticker": "267250",
+      "name": "HD현대",
+      "close": 257000.0,
+      "market_cap": 20301222845000.0,
+      "trading_value": 41744639250.0
+    },
+    {
+      "ticker": "079550",
+      "name": "LIG디펜스앤에어로스페이스",
+      "close": 909000.0,
+      "market_cap": 19998000000000.0,
+      "trading_value": 151106809000.0
+    },
+    {
+      "ticker": "011200",
+      "name": "HMM",
+      "close": 21100.0,
+      "market_cap": 19902321167000.0,
+      "trading_value": 17303650725.0
+    },
+    {
+      "ticker": "033780",
+      "name": "KT&G",
+      "close": 173000.0,
+      "market_cap": 19839059585000.0,
+      "trading_value": 40550141550.0
+    },
+    {
+      "ticker": "000720",
+      "name": "현대건설",
+      "close": 174900.0,
+      "market_cap": 19476123298500.0,
+      "trading_value": 244781781100.0
+    },
+    {
+      "ticker": "024110",
+      "name": "기업은행",
+      "close": 22550.0,
+      "market_cap": 17981953345950.0,
+      "trading_value": 22393440850.0
+    },
+    {
+      "ticker": "047810",
+      "name": "한국항공우주",
+      "close": 182500.0,
+      "market_cap": 17789207027500.0,
+      "trading_value": 110183284950.0
+    },
+    {
+      "ticker": "086280",
+      "name": "현대글로비스",
+      "close": 233500.0,
+      "market_cap": 17512500000000.0,
+      "trading_value": 35656933000.0
+    },
+    {
+      "ticker": "030200",
+      "name": "KT",
+      "close": 62700.0,
+      "market_cap": 15801759649500.0,
+      "trading_value": 59830495700.0
+    },
+    {
+      "ticker": "278470",
+      "name": "에이피알",
+      "close": 410000.0,
+      "market_cap": 15349643550000.0,
+      "trading_value": 83551311000.0
+    },
+    {
+      "ticker": "003550",
+      "name": "LG",
+      "close": 95000.0,
+      "market_cap": 14651050575000.0,
+      "trading_value": 21672455850.0
+    },
+    {
+      "ticker": "071050",
+      "name": "한국금융지주",
+      "close": 262000.0,
+      "market_cap": 14600209904000.0,
+      "trading_value": 52398534750.0
+    },
+    {
+      "ticker": "0126Z0",
+      "name": "삼성에피스홀딩스",
+      "close": 573000.0,
+      "market_cap": 14257987077000.0,
+      "trading_value": 24218766000.0
+    },
+    {
+      "ticker": "018260",
+      "name": "삼성에스디에스",
+      "close": 180200.0,
+      "market_cap": 13943479560000.0,
+      "trading_value": 51259019600.0
+    },
+    {
+      "ticker": "047050",
+      "name": "포스코인터내셔널",
+      "close": 77500.0,
+      "market_cap": 13634016070000.0,
+      "trading_value": 42616538200.0
+    },
+    {
+      "ticker": "047040",
+      "name": "대우건설",
+      "close": 32850.0,
+      "market_cap": 13498315908300.0,
+      "trading_value": 3083730978225.0
+    },
+    {
+      "ticker": "010950",
+      "name": "S-Oil",
+      "close": 114300.0,
+      "market_cap": 12868213125600.0,
+      "trading_value": 41050687550.0
+    },
+    {
+      "ticker": "005940",
+      "name": "NH투자증권",
+      "close": 35950.0,
+      "market_cap": 12810580065550.0,
+      "trading_value": 22489263150.0
+    },
+    {
+      "ticker": "307950",
+      "name": "현대오토에버",
+      "close": 442500.0,
+      "market_cap": 12135112035000.0,
+      "trading_value": 40630933250.0
+    },
+    {
+      "ticker": "259960",
+      "name": "크래프톤",
+      "close": 255000.0,
+      "market_cap": 12088553205000.0,
+      "trading_value": 34529915750.0
+    },
+    {
+      "ticker": "323410",
+      "name": "카카오뱅크",
+      "close": 24950.0,
+      "market_cap": 11904154903150.0,
+      "trading_value": 14617876475.0
+    },
+    {
+      "ticker": "005830",
+      "name": "DB손해보험",
+      "close": 170700.0,
+      "market_cap": 11843848800000.0,
+      "trading_value": 39465608550.0
+    },
+    {
+      "ticker": "039490",
+      "name": "키움증권",
+      "close": 451500.0,
+      "market_cap": 11834580744000.0,
+      "trading_value": 70171083250.0
+    },
+    {
+      "ticker": "352820",
+      "name": "하이브",
+      "close": 249000.0,
+      "market_cap": 10732460001000.0,
+      "trading_value": 113853216000.0
+    },
+    {
+      "ticker": "006260",
+      "name": "LS",
+      "close": 337500.0,
+      "market_cap": 10530000000000.0,
+      "trading_value": 45360875250.0
+    },
+    {
+      "ticker": "443060",
+      "name": "HD현대마린솔루션",
+      "close": 230000.0,
+      "market_cap": 10311207050000.0,
+      "trading_value": 156302987400.0
+    },
+    {
+      "ticker": "003230",
+      "name": "삼양식품",
+      "close": 1359000.0,
+      "market_cap": 10237367385000.0,
+      "trading_value": 58255574500.0
+    },
+    {
+      "ticker": "028050",
+      "name": "삼성E&A",
+      "close": 51700.0,
+      "market_cap": 10133200000000.0,
+      "trading_value": 179264414250.0
+    },
+    {
+      "ticker": "011070",
+      "name": "LG이노텍",
+      "close": 425000.0,
+      "market_cap": 10058520475000.0,
+      "trading_value": 85041994500.0
+    },
+    {
+      "ticker": "016360",
+      "name": "삼성증권",
+      "close": 110400.0,
+      "market_cap": 9858720000000.0,
+      "trading_value": 26993307050.0
+    },
+    {
+      "ticker": "000880",
+      "name": "한화",
+      "close": 130500.0,
+      "market_cap": 9782114917500.0,
+      "trading_value": 22594844766.0
+    },
+    {
+      "ticker": "007660",
+      "name": "이수페타시스",
+      "close": 133200.0,
+      "market_cap": 9778107970800.0,
+      "trading_value": 209697203900.0
+    },
+    {
+      "ticker": "003490",
+      "name": "대한항공",
+      "close": 25600.0,
+      "market_cap": 9426448921600.0,
+      "trading_value": 37301159125.0
+    },
+    {
+      "ticker": "267270",
+      "name": "HD건설기계",
+      "close": 176200.0,
+      "market_cap": 8453039591600.0,
+      "trading_value": 110178235050.0
+    },
+    {
+      "ticker": "326030",
+      "name": "SK바이오팜",
+      "close": 102000.0,
+      "market_cap": 7987951500000.0,
+      "trading_value": 21896305700.0
+    },
+    {
+      "ticker": "180640",
+      "name": "한진칼",
+      "close": 119000.0,
+      "market_cap": 7944711201000.0,
+      "trading_value": 12665448800.0
+    },
+    {
+      "ticker": "066970",
+      "name": "엘앤에프",
+      "close": 196400.0,
+      "market_cap": 7919846694000.0,
+      "trading_value": 276885509750.0
+    },
+    {
+      "ticker": "009830",
+      "name": "한화솔루션",
+      "close": 45450.0,
+      "market_cap": 7812515761200.0,
+      "trading_value": 172952862325.0
+    },
+    {
+      "ticker": "001440",
+      "name": "대한전선",
+      "close": 41550.0,
+      "market_cap": 7746885315000.0,
+      "trading_value": 452046865200.0
+    },
+    {
+      "ticker": "377300",
+      "name": "카카오페이",
+      "close": 57000.0,
+      "market_cap": 7708985919000.0,
+      "trading_value": 12854699700.0
+    },
+    {
+      "ticker": "161390",
+      "name": "한국타이어앤테크놀로지",
+      "close": 62100.0,
+      "market_cap": 7692641784900.0,
+      "trading_value": 15668629650.0
+    },
+    {
+      "ticker": "000100",
+      "name": "유한양행",
+      "close": 96500.0,
+      "market_cap": 7685993496500.0,
+      "trading_value": 17151211700.0
+    },
+    {
+      "ticker": "090430",
+      "name": "아모레퍼시픽",
+      "close": 130600.0,
+      "market_cap": 7639154325400.0,
+      "trading_value": 27741255050.0
+    },
+    {
+      "ticker": "032640",
+      "name": "LG유플러스",
+      "close": 17410.0,
+      "market_cap": 7483311660550.0,
+      "trading_value": 11591939745.0
+    },
+    {
+      "ticker": "034220",
+      "name": "LG디스플레이",
+      "close": 14770.0,
+      "market_cap": 7385000000000.0,
+      "trading_value": 71295275585.0
+    },
+    {
+      "ticker": "241560",
+      "name": "두산밥캣",
+      "close": 71800.0,
+      "market_cap": 6882465467000.0,
+      "trading_value": 21734554000.0
+    },
+    {
+      "ticker": "052690",
+      "name": "한전기술",
+      "close": 179100.0,
+      "market_cap": 6845202000000.0,
+      "trading_value": 36238689450.0
+    },
+    {
+      "ticker": "078930",
+      "name": "GS",
+      "close": 70800.0,
+      "market_cap": 6578408762400.0,
+      "trading_value": 11741074250.0
+    },
+    {
+      "ticker": "064400",
+      "name": "LG씨엔에스",
+      "close": 67000.0,
+      "market_cap": 6491358516000.0,
+      "trading_value": 31793806850.0
+    },
+    {
+      "ticker": "128940",
+      "name": "한미약품",
+      "close": 504000.0,
+      "market_cap": 6456739464000.0,
+      "trading_value": 62443651000.0
+    },
+    {
+      "ticker": "062040",
+      "name": "산일전기",
+      "close": 205000.0,
+      "market_cap": 6276249250000.0,
+      "trading_value": 73605160250.0
+    },
+    {
+      "ticker": "029780",
+      "name": "삼성카드",
+      "close": 54000.0,
+      "market_cap": 6256380114000.0,
+      "trading_value": 3809349500.0
+    },
+    {
+      "ticker": "001040",
+      "name": "CJ",
+      "close": 211000.0,
+      "market_cap": 6156346578000.0,
+      "trading_value": 18063891000.0
+    },
+    {
+      "ticker": "454910",
+      "name": "두산로보틱스",
+      "close": 92600.0,
+      "market_cap": 6002330148000.0,
+      "trading_value": 11277019250.0
+    },
+    {
+      "ticker": "450080",
+      "name": "에코프로머티",
+      "close": 83200.0,
+      "market_cap": 5870488332800.0,
+      "trading_value": 371559796350.0
+    },
+    {
+      "ticker": "138930",
+      "name": "BNK금융지주",
+      "close": 18830.0,
+      "market_cap": 5843458031390.0,
+      "trading_value": 18317065840.0
+    },
+    {
+      "ticker": "175330",
+      "name": "JB금융지주",
+      "close": 30950.0,
+      "market_cap": 5826448424800.0,
+      "trading_value": 9289753800.0
+    },
+    {
+      "ticker": "021240",
+      "name": "코웨이",
+      "close": 81400.0,
+      "market_cap": 5760468476400.0,
+      "trading_value": 52643873900.0
+    },
+    {
+      "ticker": "036570",
+      "name": "NC",
+      "close": 260000.0,
+      "market_cap": 5601445720000.0,
+      "trading_value": 41055481000.0
+    },
+    {
+      "ticker": "010060",
+      "name": "OCI홀딩스",
+      "close": 298500.0,
+      "market_cap": 5573064252000.0,
+      "trading_value": 279393460000.0
+    },
+    {
+      "ticker": "088980",
+      "name": "맥쿼리인프라",
+      "close": 11400.0,
+      "market_cap": 5459710720200.0,
+      "trading_value": 11889466780.0
+    },
+    {
+      "ticker": "004020",
+      "name": "현대제철",
+      "close": 40350.0,
+      "market_cap": 5384537424750.0,
+      "trading_value": 55073393600.0
+    },
+    {
+      "ticker": "271560",
+      "name": "오리온",
+      "close": 135400.0,
+      "market_cap": 5353192272800.0,
+      "trading_value": 12931167050.0
+    },
+    {
+      "ticker": "000990",
+      "name": "DB하이텍",
+      "close": 122000.0,
+      "market_cap": 5307559736000.0,
+      "trading_value": 86909359650.0
+    },
+    {
+      "ticker": "022100",
+      "name": "포스코DX",
+      "close": 34650.0,
+      "market_cap": 5268003359850.0,
+      "trading_value": 23160374925.0
+    },
+    {
+      "ticker": "082740",
+      "name": "한화엔진",
+      "close": 60600.0,
+      "market_cap": 5056896805200.0,
+      "trading_value": 201001783250.0
+    },
+    {
+      "ticker": "353200",
+      "name": "대덕전자",
+      "close": 100300.0,
+      "market_cap": 4956517577500.0,
+      "trading_value": 189161683350.0
+    },
+    {
+      "ticker": "002380",
+      "name": "KCC",
+      "close": 555000.0,
+      "market_cap": 4931991405000.0,
+      "trading_value": 22574221500.0
+    },
+    {
+      "ticker": "018880",
+      "name": "한온시스템",
+      "close": 4250.0,
+      "market_cap": 4361615846000.0,
+      "trading_value": 145187405553.0
+    },
+    {
+      "ticker": "489790",
+      "name": "한화비전",
+      "close": 85600.0,
+      "market_cap": 4321806184000.0,
+      "trading_value": 52982111150.0
+    },
+    {
+      "ticker": "088350",
+      "name": "한화생명",
+      "close": 4870.0,
+      "market_cap": 4229741100000.0,
+      "trading_value": 15750392911.0
+    },
+    {
+      "ticker": "011790",
+      "name": "SKC",
+      "close": 110300.0,
+      "market_cap": 4176873269400.0,
+      "trading_value": 49582762850.0
+    },
+    {
+      "ticker": "251270",
+      "name": "넷마블",
+      "close": 50600.0,
+      "market_cap": 4147194772600.0,
+      "trading_value": 12133314650.0
+    },
+    {
+      "ticker": "103590",
+      "name": "일진전기",
+      "close": 86400.0,
+      "market_cap": 4120017696000.0,
+      "trading_value": 24562692300.0
+    },
+    {
+      "ticker": "017800",
+      "name": "현대엘리베이터",
+      "close": 99700.0,
+      "market_cap": 3897510784500.0,
+      "trading_value": 21454554050.0
+    },
+    {
+      "ticker": "375500",
+      "name": "DL이앤씨",
+      "close": 100600.0,
+      "market_cap": 3892578473800.0,
+      "trading_value": 217856376300.0
+    },
+    {
+      "ticker": "011170",
+      "name": "롯데케미칼",
+      "close": 89900.0,
+      "market_cap": 3845510168100.0,
+      "trading_value": 10786462350.0
+    },
+    {
+      "ticker": "457190",
+      "name": "이수스페셜티케미컬",
+      "close": 127000.0,
+      "market_cap": 3837796744000.0,
+      "trading_value": 189437049500.0
+    },
+    {
+      "ticker": "051900",
+      "name": "LG생활건강",
+      "close": 250500.0,
+      "market_cap": 3833265979500.0,
+      "trading_value": 9538200250.0
+    },
+    {
+      "ticker": "111770",
+      "name": "영원무역",
+      "close": 85400.0,
+      "market_cap": 3784199367200.0,
+      "trading_value": 3943980350.0
+    },
+    {
+      "ticker": "006360",
+      "name": "GS건설",
+      "close": 43100.0,
+      "market_cap": 3688562219000.0,
+      "trading_value": 425065279975.0
+    },
+    {
+      "ticker": "012510",
+      "name": "더존비즈온",
+      "close": 119000.0,
+      "market_cap": 3616983580000.0,
+      "trading_value": 962627400.0
+    },
+    {
+      "ticker": "004170",
+      "name": "신세계",
+      "close": 382000.0,
+      "market_cap": 3608059142000.0,
+      "trading_value": 32572772000.0
+    },
+    {
+      "ticker": "035250",
+      "name": "강원랜드",
+      "close": 16840.0,
+      "market_cap": 3602758020000.0,
+      "trading_value": 8982154710.0
+    },
+    {
+      "ticker": "097950",
+      "name": "CJ제일제당",
+      "close": 237500.0,
+      "market_cap": 3575369175000.0,
+      "trading_value": 11763967000.0
+    },
+    {
+      "ticker": "031210",
+      "name": "서울보증보험",
+      "close": 49850.0,
+      "market_cap": 3480606660300.0,
+      "trading_value": 2242416825.0
+    },
+    {
+      "ticker": "302440",
+      "name": "SK바이오사이언스",
+      "close": 44200.0,
+      "market_cap": 3467779642600.0,
+      "trading_value": 5941938950.0
+    },
+    {
+      "ticker": "439260",
+      "name": "대한조선",
+      "close": 90000.0,
+      "market_cap": 3467368080000.0,
+      "trading_value": 14812931700.0
+    },
+    {
+      "ticker": "036460",
+      "name": "한국가스공사",
+      "close": 37050.0,
+      "market_cap": 3420196650000.0,
+      "trading_value": 9775846800.0
+    },
+    {
+      "ticker": "011780",
+      "name": "금호석유화학",
+      "close": 134800.0,
+      "market_cap": 3391207410000.0,
+      "trading_value": 10286501800.0
+    },
+    {
+      "ticker": "012750",
+      "name": "에스원",
+      "close": 88900.0,
+      "market_cap": 3378126924200.0,
+      "trading_value": 3149442100.0
+    },
+    {
+      "ticker": "023530",
+      "name": "롯데쇼핑",
+      "close": 117900.0,
+      "market_cap": 3335244214500.0,
+      "trading_value": 12201110800.0
+    },
+    {
+      "ticker": "001720",
+      "name": "신영증권",
+      "close": 202000.0,
+      "market_cap": 3320880000000.0,
+      "trading_value": 5260513500.0
+    },
+    {
+      "ticker": "014680",
+      "name": "한솔케미칼",
+      "close": 288000.0,
+      "market_cap": 3274616160000.0,
+      "trading_value": 14701254500.0
+    },
+    {
+      "ticker": "071970",
+      "name": "HD현대마린엔진",
+      "close": 96100.0,
+      "market_cap": 3259855669500.0,
+      "trading_value": 53946647500.0
+    },
+    {
+      "ticker": "139130",
+      "name": "iM금융지주",
+      "close": 18980.0,
+      "market_cap": 3048654585340.0,
+      "trading_value": 10222784005.0
+    },
+    {
+      "ticker": "028670",
+      "name": "팬오션",
+      "close": 5680.0,
+      "market_cap": 3036354828160.0,
+      "trading_value": 22875096350.0
+    },
+    {
+      "ticker": "005850",
+      "name": "에스엘",
+      "close": 64900.0,
+      "market_cap": 3014508948000.0,
+      "trading_value": 16855662150.0
+    },
+    {
+      "ticker": "020150",
+      "name": "롯데에너지머티리얼즈",
+      "close": 56700.0,
+      "market_cap": 2969121752100.0,
+      "trading_value": 41387736600.0
+    },
+    {
+      "ticker": "085620",
+      "name": "미래에셋생명",
+      "close": 17430.0,
+      "market_cap": 2911092174270.0,
+      "trading_value": 4363732355.0
+    },
+    {
+      "ticker": "009970",
+      "name": "영원무역홀딩스",
+      "close": 212000.0,
+      "market_cap": 2861838244000.0,
+      "trading_value": 4354875500.0
+    },
+    {
+      "ticker": "004990",
+      "name": "롯데지주",
+      "close": 28600.0,
+      "market_cap": 2850383993600.0,
+      "trading_value": 4880562575.0
+    },
+    {
+      "ticker": "336260",
+      "name": "두산퓨얼셀",
+      "close": 43350.0,
+      "market_cap": 2839153022100.0,
+      "trading_value": 30187663375.0
+    },
+    {
+      "ticker": "139480",
+      "name": "이마트",
+      "close": 101700.0,
+      "market_cap": 2806494792300.0,
+      "trading_value": 12912758200.0
+    },
+    {
+      "ticker": "103140",
+      "name": "풍산",
+      "close": 99900.0,
+      "market_cap": 2799625372200.0,
+      "trading_value": 14593524600.0
+    },
+    {
+      "ticker": "004800",
+      "name": "효성",
+      "close": 163800.0,
+      "market_cap": 2742078666600.0,
+      "trading_value": 7112647800.0
+    },
+    {
+      "ticker": "051600",
+      "name": "한전KPS",
+      "close": 60200.0,
+      "market_cap": 2709000000000.0,
+      "trading_value": 7350614100.0
+    },
+    {
+      "ticker": "001450",
+      "name": "현대해상",
+      "close": 30150.0,
+      "market_cap": 2695410000000.0,
+      "trading_value": 9566931700.0
+    },
+    {
+      "ticker": "112610",
+      "name": "씨에스윈드",
+      "close": 63800.0,
+      "market_cap": 2690535511400.0,
+      "trading_value": 26051833650.0
+    },
+    {
+      "ticker": "026960",
+      "name": "동서",
+      "close": 26950.0,
+      "market_cap": 2686915000000.0,
+      "trading_value": 1853329225.0
+    },
+    {
+      "ticker": "008930",
+      "name": "한미사이언스",
+      "close": 39250.0,
+      "market_cap": 2684368337500.0,
+      "trading_value": 3171234775.0
+    },
+    {
+      "ticker": "120110",
+      "name": "코오롱인더",
+      "close": 87700.0,
+      "market_cap": 2626267006400.0,
+      "trading_value": 47414606900.0
+    },
+    {
+      "ticker": "017960",
+      "name": "한국카본",
+      "close": 50900.0,
+      "market_cap": 2594365874000.0,
+      "trading_value": 19873360450.0
+    },
+    {
+      "ticker": "383220",
+      "name": "F&F",
+      "close": 67700.0,
+      "market_cap": 2593388977500.0,
+      "trading_value": 3841269550.0
+    },
+    {
+      "ticker": "279570",
+      "name": "케이뱅크",
+      "close": 6340.0,
+      "market_cap": 2572107257340.0,
+      "trading_value": 10359435335.0
+    },
+    {
+      "ticker": "000500",
+      "name": "가온전선",
+      "close": 155400.0,
+      "market_cap": 2570800071000.0,
+      "trading_value": 9936817500.0
+    },
+    {
+      "ticker": "009420",
+      "name": "한올바이오파마",
+      "close": 48950.0,
+      "market_cap": 2557179230100.0,
+      "trading_value": 16365201950.0
+    },
+    {
+      "ticker": "204320",
+      "name": "HL만도",
+      "close": 54300.0,
+      "market_cap": 2549771616000.0,
+      "trading_value": 14352418500.0
+    },
+    {
+      "ticker": "097230",
+      "name": "HJ중공업",
+      "close": 28000.0,
+      "market_cap": 2528269632000.0,
+      "trading_value": 55731875000.0
+    },
+    {
+      "ticker": "001430",
+      "name": "세아베스틸지주",
+      "close": 69900.0,
+      "market_cap": 2506762118100.0,
+      "trading_value": 12008043050.0
+    },
+    {
+      "ticker": "483650",
+      "name": "달바글로벌",
+      "close": 198700.0,
+      "market_cap": 2462621235500.0,
+      "trading_value": 31830911800.0
+    },
+    {
+      "ticker": "000120",
+      "name": "CJ대한통운",
+      "close": 107000.0,
+      "market_cap": 2440920808000.0,
+      "trading_value": 6180886450.0
+    },
+    {
+      "ticker": "192820",
+      "name": "코스맥스",
+      "close": 214000.0,
+      "market_cap": 2428794926000.0,
+      "trading_value": 16527480000.0
+    },
+    {
+      "ticker": "005440",
+      "name": "현대지에프홀딩스",
+      "close": 15280.0,
+      "market_cap": 2382217719280.0,
+      "trading_value": 28875906450.0
+    },
+    {
+      "ticker": "000240",
+      "name": "한국앤컴퍼니",
+      "close": 24900.0,
+      "market_cap": 2363887476000.0,
+      "trading_value": 4575287575.0
+    },
+    {
+      "ticker": "011210",
+      "name": "현대위아",
+      "close": 86400.0,
+      "market_cap": 2349655171200.0,
+      "trading_value": 20238819250.0
+    },
+    {
+      "ticker": "282330",
+      "name": "BGF리테일",
+      "close": 134100.0,
+      "market_cap": 2317771794600.0,
+      "trading_value": 7994713550.0
+    },
+    {
+      "ticker": "004370",
+      "name": "농심",
+      "close": 379000.0,
+      "market_cap": 2305321318000.0,
+      "trading_value": 7278356000.0
+    },
+    {
+      "ticker": "007340",
+      "name": "DN오토모티브",
+      "close": 39150.0,
+      "market_cap": 2290700364750.0,
+      "trading_value": 24538457975.0
+    },
+    {
+      "ticker": "298020",
+      "name": "효성티앤씨",
+      "close": 527000.0,
+      "market_cap": 2280688414000.0,
+      "trading_value": 21844909000.0
+    },
+    {
+      "ticker": "030000",
+      "name": "제일기획",
+      "close": 19810.0,
+      "market_cap": 2278966667250.0,
+      "trading_value": 4809867030.0
+    },
+    {
+      "ticker": "081660",
+      "name": "미스토홀딩스",
+      "close": 42650.0,
+      "market_cap": 2264366976000.0,
+      "trading_value": 3804450050.0
+    },
+    {
+      "ticker": "018670",
+      "name": "SK가스",
+      "close": 244000.0,
+      "market_cap": 2258767536000.0,
+      "trading_value": 3299263750.0
+    },
+    {
+      "ticker": "361610",
+      "name": "SK아이이테크놀로지",
+      "close": 26650.0,
+      "market_cap": 2179626215000.0,
+      "trading_value": 13573469675.0
+    },
+    {
+      "ticker": "003690",
+      "name": "코리안리",
+      "close": 12300.0,
+      "market_cap": 2173668681300.0,
+      "trading_value": 2602974690.0
+    },
+    {
+      "ticker": "007810",
+      "name": "코리아써키트",
+      "close": 89600.0,
+      "market_cap": 2148842752000.0,
+      "trading_value": 26590971900.0
+    },
+    {
+      "ticker": "005070",
+      "name": "코스모신소재",
+      "close": 64500.0,
+      "market_cap": 2142339829500.0,
+      "trading_value": 68457840900.0
+    },
+    {
+      "ticker": "023590",
+      "name": "다우기술",
+      "close": 49150.0,
+      "market_cap": 2127571384800.0,
+      "trading_value": 2969588250.0
+    },
+    {
+      "ticker": "008770",
+      "name": "호텔신라",
+      "close": 53900.0,
+      "market_cap": 2115473721900.0,
+      "trading_value": 18700427200.0
+    },
+    {
+      "ticker": "002790",
+      "name": "아모레퍼시픽홀딩스",
+      "close": 27600.0,
+      "market_cap": 2110245768000.0,
+      "trading_value": 1517171425.0
+    },
+    {
+      "ticker": "069960",
+      "name": "현대백화점",
+      "close": 92300.0,
+      "market_cap": 2088639439900.0,
+      "trading_value": 5542170600.0
+    },
+    {
+      "ticker": "161890",
+      "name": "한국콜마",
+      "close": 86300.0,
+      "market_cap": 2037118145100.0,
+      "trading_value": 13189244600.0
+    },
+    {
+      "ticker": "077970",
+      "name": "STX엔진",
+      "close": 50500.0,
+      "market_cap": 2027477181500.0,
+      "trading_value": 261720510050.0
+    },
+    {
+      "ticker": "462870",
+      "name": "시프트업",
+      "close": 34100.0,
+      "market_cap": 2000112994000.0,
+      "trading_value": 2439975000.0
+    },
+    {
+      "ticker": "007070",
+      "name": "GS리테일",
+      "close": 23350.0,
+      "market_cap": 1952233140250.0,
+      "trading_value": 2398446675.0
+    },
+    {
+      "ticker": "001120",
+      "name": "LX인터내셔널",
+      "close": 50100.0,
+      "market_cap": 1941876000000.0,
+      "trading_value": 7268648175.0
+    },
+    {
+      "ticker": "003540",
+      "name": "대신증권",
+      "close": 39100.0,
+      "market_cap": 1924492733300.0,
+      "trading_value": 3118836025.0
+    },
+    {
+      "ticker": "322000",
+      "name": "HD현대에너지솔루션",
+      "close": 170000.0,
+      "market_cap": 1904000000000.0,
+      "trading_value": 151288571000.0
+    },
+    {
+      "ticker": "475150",
+      "name": "SK이터닉스",
+      "close": 53200.0,
+      "market_cap": 1812364612800.0,
+      "trading_value": 41760569200.0
+    },
+    {
+      "ticker": "229640",
+      "name": "LS에코에너지",
+      "close": 58500.0,
+      "market_cap": 1791555421500.0,
+      "trading_value": 16420805650.0
+    },
+    {
+      "ticker": "003570",
+      "name": "SNT다이내믹스",
+      "close": 53700.0,
+      "market_cap": 1785669828900.0,
+      "trading_value": 3000324250.0
+    },
+    {
+      "ticker": "006040",
+      "name": "동원산업",
+      "close": 39400.0,
+      "market_cap": 1739430648400.0,
+      "trading_value": 2127554500.0
+    },
+    {
+      "ticker": "069620",
+      "name": "대웅제약",
+      "close": 149300.0,
+      "market_cap": 1729875647500.0,
+      "trading_value": 5196434650.0
+    },
+    {
+      "ticker": "073240",
+      "name": "금호타이어",
+      "close": 5970.0,
+      "market_cap": 1714943913390.0,
+      "trading_value": 2514215030.0
+    },
+    {
+      "ticker": "006280",
+      "name": "녹십자",
+      "close": 144000.0,
+      "market_cap": 1682861472000.0,
+      "trading_value": 8519064300.0
+    },
+    {
+      "ticker": "003530",
+      "name": "한화투자증권",
+      "close": 7760.0,
+      "market_cap": 1664890734000.0,
+      "trading_value": 20391921760.0
+    },
+    {
+      "ticker": "012630",
+      "name": "HDC",
+      "close": 26900.0,
+      "market_cap": 1607052294900.0,
+      "trading_value": 1699519450.0
+    },
+    {
+      "ticker": "032350",
+      "name": "롯데관광개발",
+      "close": 19740.0,
+      "market_cap": 1571333096760.0,
+      "trading_value": 11423575040.0
+    },
+    {
+      "ticker": "030610",
+      "name": "교보증권",
+      "close": 13670.0,
+      "market_cap": 1557873676870.0,
+      "trading_value": 1675799145.0
+    },
+    {
+      "ticker": "001800",
+      "name": "오리온홀딩스",
+      "close": 24750.0,
+      "market_cap": 1550474194500.0,
+      "trading_value": 2183940925.0
+    },
+    {
+      "ticker": "294870",
+      "name": "IPARK현대산업개발",
+      "close": 23200.0,
+      "market_cap": 1529050056000.0,
+      "trading_value": 8823283425.0
+    },
+    {
+      "ticker": "020560",
+      "name": "아시아나항공",
+      "close": 7210.0,
+      "market_cap": 1485193026310.0,
+      "trading_value": 477824630.0
+    },
+    {
+      "ticker": "093370",
+      "name": "후성",
+      "close": 13700.0,
+      "market_cap": 1469398021000.0,
+      "trading_value": 44118877100.0
+    },
+    {
+      "ticker": "007310",
+      "name": "오뚜기",
+      "close": 365000.0,
+      "market_cap": 1462857950000.0,
+      "trading_value": 1469087500.0
+    },
+    {
+      "ticker": "034230",
+      "name": "파라다이스",
+      "close": 15350.0,
+      "market_cap": 1421861013700.0,
+      "trading_value": 9960879300.0
+    },
+    {
+      "ticker": "100090",
+      "name": "SK오션플랜트",
+      "close": 22650.0,
+      "market_cap": 1415129621850.0,
+      "trading_value": 21888204975.0
+    },
+    {
+      "ticker": "004000",
+      "name": "롯데정밀화학",
+      "close": 53800.0,
+      "market_cap": 1388040000000.0,
+      "trading_value": 3204191500.0
+    },
+    {
+      "ticker": "003240",
+      "name": "태광산업",
+      "close": 1237000.0,
+      "market_cap": 1377275800000.0,
+      "trading_value": 1515297000.0
+    },
+    {
+      "ticker": "082640",
+      "name": "동양생명",
+      "close": 8500.0,
+      "market_cap": 1371547972500.0,
+      "trading_value": 841810120.0
+    },
+    {
+      "ticker": "181710",
+      "name": "NHN",
+      "close": 41400.0,
+      "market_cap": 1355979954600.0,
+      "trading_value": 3644490200.0
+    },
+    {
+      "ticker": "003090",
+      "name": "대웅",
+      "close": 23050.0,
+      "market_cap": 1340172639000.0,
+      "trading_value": 1590344550.0
+    },
+    {
+      "ticker": "000210",
+      "name": "DL",
+      "close": 63900.0,
+      "market_cap": 1339080987600.0,
+      "trading_value": 7358293150.0
+    },
+    {
+      "ticker": "300720",
+      "name": "한일시멘트",
+      "close": 17160.0,
+      "market_cap": 1262035786440.0,
+      "trading_value": 2025699680.0
+    },
+    {
+      "ticker": "089860",
+      "name": "롯데렌탈",
+      "close": 33600.0,
+      "market_cap": 1219995436800.0,
+      "trading_value": 832587300.0
+    },
+    {
+      "ticker": "000670",
+      "name": "영풍",
+      "close": 65400.0,
+      "market_cap": 1217367568200.0,
+      "trading_value": 1644262850.0
+    },
+    {
+      "ticker": "415640",
+      "name": "KB발해인프라",
+      "close": 9930.0,
+      "market_cap": 1216877291640.0,
+      "trading_value": 1898541660.0
+    },
+    {
+      "ticker": "185750",
+      "name": "종근당",
+      "close": 88000.0,
+      "market_cap": 1214644640000.0,
+      "trading_value": 1881498850.0
+    },
+    {
+      "ticker": "000080",
+      "name": "하이트진로",
+      "close": 17170.0,
+      "market_cap": 1204194100870.0,
+      "trading_value": 2476745095.0
+    },
+    {
+      "ticker": "001740",
+      "name": "SK네트웍스",
+      "close": 5370.0,
+      "market_cap": 1188262333740.0,
+      "trading_value": 3323575055.0
+    },
+    {
+      "ticker": "005300",
+      "name": "롯데칠성",
+      "close": 123400.0,
+      "market_cap": 1145014285600.0,
+      "trading_value": 1928470650.0
+    },
+    {
+      "ticker": "090460",
+      "name": "비에이치",
+      "close": 33850.0,
+      "market_cap": 1141135561300.0,
+      "trading_value": 34097594125.0
+    },
+    {
+      "ticker": "281820",
+      "name": "케이씨텍",
+      "close": 54900.0,
+      "market_cap": 1135898732700.0,
+      "trading_value": 6852087350.0
+    },
+    {
+      "ticker": "075580",
+      "name": "세진중공업",
+      "close": 19800.0,
+      "market_cap": 1125619228800.0,
+      "trading_value": 9605455425.0
+    },
+    {
+      "ticker": "195870",
+      "name": "해성디에스",
+      "close": 65500.0,
+      "market_cap": 1113500000000.0,
+      "trading_value": 25754566600.0
+    },
+    {
+      "ticker": "100840",
+      "name": "SNT에너지",
+      "close": 53300.0,
+      "market_cap": 1102285733900.0,
+      "trading_value": 23097405700.0
+    },
+    {
+      "ticker": "280360",
+      "name": "롯데웰푸드",
+      "close": 118200.0,
+      "market_cap": 1099800646800.0,
+      "trading_value": 2411499800.0
+    },
+    {
+      "ticker": "005690",
+      "name": "파미셀",
+      "close": 18240.0,
+      "market_cap": 1094709423360.0,
+      "trading_value": 21036618870.0
+    },
+    {
+      "ticker": "192080",
+      "name": "더블유게임즈",
+      "close": 51700.0,
+      "market_cap": 1094668295600.0,
+      "trading_value": 3296539000.0
+    },
+    {
+      "ticker": "137310",
+      "name": "에스디바이오센서",
+      "close": 8690.0,
+      "market_cap": 1049309696380.0,
+      "trading_value": 1323164120.0
+    },
+    {
+      "ticker": "057050",
+      "name": "현대홈쇼핑",
+      "close": 87400.0,
+      "market_cap": 1048800000000.0,
+      "trading_value": 9527602300.0
+    },
+    {
+      "ticker": "484870",
+      "name": "엠앤씨솔루션",
+      "close": 112900.0,
+      "market_cap": 1033475310000.0,
+      "trading_value": 3164908450.0
+    },
+    {
+      "ticker": "006650",
+      "name": "대한유화",
+      "close": 158900.0,
+      "market_cap": 1032850000000.0,
+      "trading_value": 9818746450.0
+    },
+    {
+      "ticker": "006120",
+      "name": "SK디스커버리",
+      "close": 59100.0,
+      "market_cap": 1029152684100.0,
+      "trading_value": 1520307100.0
+    },
+    {
+      "ticker": "192400",
+      "name": "쿠쿠홀딩스",
+      "close": 28900.0,
+      "market_cap": 1027747146500.0,
+      "trading_value": 1433865525.0
+    },
+    {
+      "ticker": "036530",
+      "name": "SNT홀딩스",
+      "close": 62600.0,
+      "market_cap": 1020623263600.0,
+      "trading_value": 902081650.0
+    },
+    {
+      "ticker": "003470",
+      "name": "유안타증권",
+      "close": 5050.0,
+      "market_cap": 1007962708800.0,
+      "trading_value": 1707229600.0
+    },
+    {
+      "ticker": "079900",
+      "name": "전진건설로봇",
+      "close": 68800.0,
+      "market_cap": 1003967096000.0,
+      "trading_value": 18720609450.0
+    },
+    {
+      "ticker": "009450",
+      "name": "경동나비엔",
+      "close": 68700.0,
+      "market_cap": 1000862270400.0,
+      "trading_value": 2047314200.0
+    },
+    {
+      "ticker": "285130",
+      "name": "SK케미칼",
+      "close": 57800.0,
+      "market_cap": 999868674800.0,
+      "trading_value": 1744604100.0
+    },
+    {
+      "ticker": "298050",
+      "name": "HS효성첨단소재",
+      "close": 219500.0,
+      "market_cap": 983348586000.0,
+      "trading_value": 2419054500.0
+    },
+    {
+      "ticker": "336370",
+      "name": "솔루스첨단소재",
+      "close": 13880.0,
+      "market_cap": 974616734720.0,
+      "trading_value": 67214947015.0
+    },
+    {
+      "ticker": "499790",
+      "name": "GS피앤엘",
+      "close": 48000.0,
+      "market_cap": 951880368000.0,
+      "trading_value": 7879434425.0
+    },
+    {
+      "ticker": "248070",
+      "name": "솔루엠",
+      "close": 19520.0,
+      "market_cap": 933372926720.0,
+      "trading_value": 5681431270.0
+    },
+    {
+      "ticker": "033240",
+      "name": "자화전자",
+      "close": 43000.0,
+      "market_cap": 929036586000.0,
+      "trading_value": 7764283225.0
+    },
+    {
+      "ticker": "064960",
+      "name": "SNT모티브",
+      "close": 34850.0,
+      "market_cap": 924928479200.0,
+      "trading_value": 3384695550.0
+    },
+    {
+      "ticker": "009240",
+      "name": "한샘",
+      "close": 39300.0,
+      "market_cap": 924883370400.0,
+      "trading_value": 2105271275.0
+    },
+    {
+      "ticker": "030190",
+      "name": "NICE평가정보",
+      "close": 15640.0,
+      "market_cap": 921376282280.0,
+      "trading_value": 600975155.0
+    },
+    {
+      "ticker": "003160",
+      "name": "디아이",
+      "close": 31900.0,
+      "market_cap": 902770000000.0,
+      "trading_value": 13156142800.0
+    },
+    {
+      "ticker": "004490",
+      "name": "세방전지",
+      "close": 65100.0,
+      "market_cap": 902286000000.0,
+      "trading_value": 7003941500.0
+    },
+    {
+      "ticker": "071320",
+      "name": "지역난방공사",
+      "close": 77700.0,
+      "market_cap": 899668408800.0,
+      "trading_value": 1859941900.0
+    },
+    {
+      "ticker": "249420",
+      "name": "일동제약",
+      "close": 28200.0,
+      "market_cap": 892198706400.0,
+      "trading_value": 5661820825.0
+    },
+    {
+      "ticker": "108320",
+      "name": "LX세미콘",
+      "close": 54800.0,
+      "market_cap": 891283640000.0,
+      "trading_value": 4948789750.0
+    },
+    {
+      "ticker": "003030",
+      "name": "세아제강지주",
+      "close": 214500.0,
+      "market_cap": 888385426500.0,
+      "trading_value": 5224216250.0
+    },
+    {
+      "ticker": "006110",
+      "name": "삼아알미늄",
+      "close": 58500.0,
+      "market_cap": 884722117500.0,
+      "trading_value": 44275670950.0
+    },
+    {
+      "ticker": "456040",
+      "name": "OCI",
+      "close": 98200.0,
+      "market_cap": 879135009000.0,
+      "trading_value": 10809840850.0
+    },
+    {
+      "ticker": "005880",
+      "name": "대한해운",
+      "close": 2720.0,
+      "market_cap": 877872764800.0,
+      "trading_value": 32565628629.0
+    },
+    {
+      "ticker": "025540",
+      "name": "한국단자",
+      "close": 85600.0,
+      "market_cap": 865844000000.0,
+      "trading_value": 3479940950.0
+    },
+    {
+      "ticker": "001510",
+      "name": "SK증권",
+      "close": 1863.0,
+      "market_cap": 861805488573.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "003850",
+      "name": "보령",
+      "close": 9880.0,
+      "market_cap": 847577605160.0,
+      "trading_value": 1871156740.0
+    },
+    {
+      "ticker": "003620",
+      "name": "KG모빌리티",
+      "close": 4185.0,
+      "market_cap": 846939006720.0,
+      "trading_value": 6773870689.0
+    },
+    {
+      "ticker": "010780",
+      "name": "아이에스동서",
+      "close": 28000.0,
+      "market_cap": 845235328000.0,
+      "trading_value": 3493399125.0
+    },
+    {
+      "ticker": "317450",
+      "name": "명인제약",
+      "close": 57000.0,
+      "market_cap": 832200000000.0,
+      "trading_value": 1248271250.0
+    },
+    {
+      "ticker": "079160",
+      "name": "CJ CGV",
+      "close": 4910.0,
+      "market_cap": 813009431790.0,
+      "trading_value": 2560329959.0
+    },
+    {
+      "ticker": "011930",
+      "name": "신성이엔지",
+      "close": 3935.0,
+      "market_cap": 810012474185.0,
+      "trading_value": 182706850326.0
+    },
+    {
+      "ticker": "014820",
+      "name": "동원시스템즈",
+      "close": 27400.0,
+      "market_cap": 794361126800.0,
+      "trading_value": 2919058175.0
+    },
+    {
+      "ticker": "001270",
+      "name": "부국증권",
+      "close": 75600.0,
+      "market_cap": 783963381600.0,
+      "trading_value": 757438100.0
+    },
+    {
+      "ticker": "000370",
+      "name": "한화손해보험",
+      "close": 6660.0,
+      "market_cap": 777481173900.0,
+      "trading_value": 2663595775.0
+    },
+    {
+      "ticker": "002020",
+      "name": "코오롱",
+      "close": 59900.0,
+      "market_cap": 773170032000.0,
+      "trading_value": 4916421450.0
+    },
+    {
+      "ticker": "178920",
+      "name": "PI첨단소재",
+      "close": 26150.0,
+      "market_cap": 767929320300.0,
+      "trading_value": 6169699850.0
+    },
+    {
+      "ticker": "093050",
+      "name": "LF",
+      "close": 26200.0,
+      "market_cap": 766088000000.0,
+      "trading_value": 511265700.0
+    },
+    {
+      "ticker": "003280",
+      "name": "흥아해운",
+      "close": 3180.0,
+      "market_cap": 764551178820.0,
+      "trading_value": 45984955153.0
+    },
+    {
+      "ticker": "005090",
+      "name": "SGC에너지",
+      "close": 52800.0,
+      "market_cap": 760812782400.0,
+      "trading_value": 7118011450.0
+    },
+    {
+      "ticker": "214320",
+      "name": "이노션",
+      "close": 19010.0,
+      "market_cap": 760400000000.0,
+      "trading_value": 3138729745.0
+    },
+    {
+      "ticker": "007700",
+      "name": "F&F홀딩스",
+      "close": 19430.0,
+      "market_cap": 759992150810.0,
+      "trading_value": 179204400.0
+    },
+    {
+      "ticker": "114090",
+      "name": "GKL",
+      "close": 12110.0,
+      "market_cap": 749072163700.0,
+      "trading_value": 2475964360.0
+    },
+    {
+      "ticker": "161000",
+      "name": "애경케미칼",
+      "close": 15360.0,
+      "market_cap": 747244170240.0,
+      "trading_value": 38342132090.0
+    },
+    {
+      "ticker": "002350",
+      "name": "넥센타이어",
+      "close": 7610.0,
+      "market_cap": 743252543970.0,
+      "trading_value": 1604407260.0
+    },
+    {
+      "ticker": "069260",
+      "name": "TKG휴켐스",
+      "close": 17950.0,
+      "market_cap": 733770654600.0,
+      "trading_value": 1549826795.0
+    },
+    {
+      "ticker": "001060",
+      "name": "JW중외제약",
+      "close": 30950.0,
+      "market_cap": 720699533500.0,
+      "trading_value": 1610295350.0
+    },
+    {
+      "ticker": "003000",
+      "name": "부광약품",
+      "close": 7290.0,
+      "market_cap": 719265451590.0,
+      "trading_value": 21787917035.0
+    },
+    {
+      "ticker": "001680",
+      "name": "대상",
+      "close": 20750.0,
+      "market_cap": 718946518750.0,
+      "trading_value": 2515524975.0
+    },
+    {
+      "ticker": "217590",
+      "name": "티엠씨",
+      "close": 29350.0,
+      "market_cap": 707165503750.0,
+      "trading_value": 12939510500.0
+    },
+    {
+      "ticker": "008730",
+      "name": "율촌화학",
+      "close": 28500.0,
+      "market_cap": 706800000000.0,
+      "trading_value": 6744659100.0
+    },
+    {
+      "ticker": "005420",
+      "name": "코스모화학",
+      "close": 18390.0,
+      "market_cap": 706327312920.0,
+      "trading_value": 21959516705.0
+    },
+    {
+      "ticker": "010820",
+      "name": "퍼스텍",
+      "close": 14410.0,
+      "market_cap": 702803626580.0,
+      "trading_value": 99412103170.0
+    },
+    {
+      "ticker": "005180",
+      "name": "빙그레",
+      "close": 75500.0,
+      "market_cap": 699811840500.0,
+      "trading_value": 2016199100.0
+    },
+    {
+      "ticker": "001820",
+      "name": "삼화콘덴서",
+      "close": 66900.0,
+      "market_cap": 695425500000.0,
+      "trading_value": 25980701900.0
+    },
+    {
+      "ticker": "017900",
+      "name": "광전자",
+      "close": 11970.0,
+      "market_cap": 693586843110.0,
+      "trading_value": 147086868195.0
+    },
+    {
+      "ticker": "001500",
+      "name": "현대차증권",
+      "close": 11200.0,
+      "market_cap": 692530092800.0,
+      "trading_value": 1803869765.0
+    },
+    {
+      "ticker": "094800",
+      "name": "맵스리얼티",
+      "close": 7300.0,
+      "market_cap": 677690616300.0,
+      "trading_value": 1884301375.0
+    },
+    {
+      "ticker": "005250",
+      "name": "녹십자홀딩스",
+      "close": 14340.0,
+      "market_cap": 674384531400.0,
+      "trading_value": 1904451420.0
+    },
+    {
+      "ticker": "058650",
+      "name": "세아홀딩스",
+      "close": 156100.0,
+      "market_cap": 673296139600.0,
+      "trading_value": 697292000.0
+    },
+    {
+      "ticker": "002840",
+      "name": "미원상사",
+      "close": 140900.0,
+      "market_cap": 669275000000.0,
+      "trading_value": 426781300.0
+    },
+    {
+      "ticker": "000400",
+      "name": "롯데손해보험",
+      "close": 2135.0,
+      "market_cap": 662568043200.0,
+      "trading_value": 934852072.0
+    },
+    {
+      "ticker": "039130",
+      "name": "하나투어",
+      "close": 42700.0,
+      "market_cap": 661420096400.0,
+      "trading_value": 2632447100.0
+    },
+    {
+      "ticker": "017940",
+      "name": "E1",
+      "close": 96300.0,
+      "market_cap": 660618000000.0,
+      "trading_value": 956874800.0
+    },
+    {
+      "ticker": "002240",
+      "name": "고려제강",
+      "close": 24100.0,
+      "market_cap": 650700000000.0,
+      "trading_value": 1662847750.0
+    },
+    {
+      "ticker": "000640",
+      "name": "동아쏘시오홀딩스",
+      "close": 96400.0,
+      "market_cap": 649015602800.0,
+      "trading_value": 1168877500.0
+    },
+    {
+      "ticker": "383800",
+      "name": "LX홀딩스",
+      "close": 8500.0,
+      "market_cap": 648385865000.0,
+      "trading_value": 794091825.0
+    },
+    {
+      "ticker": "002960",
+      "name": "한국쉘석유",
+      "close": 497000.0,
+      "market_cap": 646100000000.0,
+      "trading_value": 934853750.0
+    },
+    {
+      "ticker": "005810",
+      "name": "풍산홀딩스",
+      "close": 44650.0,
+      "market_cap": 643732087800.0,
+      "trading_value": 6720658175.0
+    },
+    {
+      "ticker": "130660",
+      "name": "한전산업",
+      "close": 19650.0,
+      "market_cap": 640590000000.0,
+      "trading_value": 7795704925.0
+    },
+    {
+      "ticker": "001570",
+      "name": "금양",
+      "close": 9900.0,
+      "market_cap": 633275240400.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "009410",
+      "name": "태영건설",
+      "close": 2125.0,
+      "market_cap": 632378915750.0,
+      "trading_value": 9241830466.0
+    },
+    {
+      "ticker": "271940",
+      "name": "일진하이솔루스",
+      "close": 17170.0,
+      "market_cap": 623497472300.0,
+      "trading_value": 1557278275.0
+    },
+    {
+      "ticker": "019170",
+      "name": "신풍제약",
+      "close": 11880.0,
+      "market_cap": 622732041360.0,
+      "trading_value": 11491012820.0
+    },
+    {
+      "ticker": "006380",
+      "name": "카프로",
+      "close": 3660.0,
+      "market_cap": 618539985360.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "268280",
+      "name": "미원에스씨",
+      "close": 121800.0,
+      "market_cap": 609000000000.0,
+      "trading_value": 96036800.0
+    },
+    {
+      "ticker": "016610",
+      "name": "DB증권",
+      "close": 13940.0,
+      "market_cap": 591702662660.0,
+      "trading_value": 671713410.0
+    },
+    {
+      "ticker": "0120G0",
+      "name": "삼양바이오팜",
+      "close": 79500.0,
+      "market_cap": 591151665000.0,
+      "trading_value": 5414036500.0
+    },
+    {
+      "ticker": "016380",
+      "name": "KG스틸",
+      "close": 5800.0,
+      "market_cap": 580051602600.0,
+      "trading_value": 3604629680.0
+    },
+    {
+      "ticker": "014830",
+      "name": "유니드",
+      "close": 85500.0,
+      "market_cap": 578629800000.0,
+      "trading_value": 2751709650.0
+    },
+    {
+      "ticker": "950210",
+      "name": "프레스티지바이오파마",
+      "close": 9470.0,
+      "market_cap": 569110587850.0,
+      "trading_value": 874190405.0
+    },
+    {
+      "ticker": "020000",
+      "name": "한섬",
+      "close": 25100.0,
+      "market_cap": 563187449700.0,
+      "trading_value": 2623471875.0
+    },
+    {
+      "ticker": "009900",
+      "name": "명신산업",
+      "close": 10540.0,
+      "market_cap": 553035201820.0,
+      "trading_value": 2517456925.0
+    },
+    {
+      "ticker": "284740",
+      "name": "쿠쿠홈시스",
+      "close": 24550.0,
+      "market_cap": 550836451500.0,
+      "trading_value": 264771725.0
+    },
+    {
+      "ticker": "003300",
+      "name": "한일홀딩스",
+      "close": 17680.0,
+      "market_cap": 545125389120.0,
+      "trading_value": 284115090.0
+    },
+    {
+      "ticker": "001530",
+      "name": "DI동일",
+      "close": 26150.0,
+      "market_cap": 541713489150.0,
+      "trading_value": 8268925875.0
+    },
+    {
+      "ticker": "002030",
+      "name": "아세아",
+      "close": 263000.0,
+      "market_cap": 541478076000.0,
+      "trading_value": 420167500.0
+    },
+    {
+      "ticker": "016590",
+      "name": "신대양제지",
+      "close": 13400.0,
+      "market_cap": 539990788000.0,
+      "trading_value": 1434836180.0
+    },
+    {
+      "ticker": "460860",
+      "name": "동국제강",
+      "close": 10790.0,
+      "market_cap": 535270503430.0,
+      "trading_value": 6596866560.0
+    },
+    {
+      "ticker": "105840",
+      "name": "우진",
+      "close": 26350.0,
+      "market_cap": 532208604500.0,
+      "trading_value": 17711783475.0
+    },
+    {
+      "ticker": "453340",
+      "name": "현대그린푸드",
+      "close": 16300.0,
+      "market_cap": 529781230800.0,
+      "trading_value": 437625990.0
+    },
+    {
+      "ticker": "000070",
+      "name": "삼양홀딩스",
+      "close": 68100.0,
+      "market_cap": 528673307100.0,
+      "trading_value": 714009450.0
+    },
+    {
+      "ticker": "377740",
+      "name": "바이오노트",
+      "close": 5130.0,
+      "market_cap": 521854626240.0,
+      "trading_value": 395416745.0
+    },
+    {
+      "ticker": "381970",
+      "name": "케이카",
+      "close": 10460.0,
+      "market_cap": 510666070080.0,
+      "trading_value": 1807461845.0
+    },
+    {
+      "ticker": "031430",
+      "name": "신세계인터내셔날",
+      "close": 14510.0,
+      "market_cap": 507646860000.0,
+      "trading_value": 3953079280.0
+    },
+    {
+      "ticker": "034310",
+      "name": "NICE",
+      "close": 13720.0,
+      "market_cap": 504308194040.0,
+      "trading_value": 1134551360.0
+    },
+    {
+      "ticker": "006340",
+      "name": "대원전선",
+      "close": 6400.0,
+      "market_cap": 501852262400.0,
+      "trading_value": 32272510940.0
+    },
+    {
+      "ticker": "029530",
+      "name": "신도리코",
+      "close": 51500.0,
+      "market_cap": 500360043500.0,
+      "trading_value": 311889500.0
+    },
+    {
+      "ticker": "004690",
+      "name": "삼천리",
+      "close": 137500.0,
+      "market_cap": 498681837500.0,
+      "trading_value": 1648123800.0
+    },
+    {
+      "ticker": "006220",
+      "name": "제주은행",
+      "close": 13170.0,
+      "market_cap": 497806995690.0,
+      "trading_value": 1807994610.0
+    },
+    {
+      "ticker": "001200",
+      "name": "유진투자증권",
+      "close": 5060.0,
+      "market_cap": 490144075080.0,
+      "trading_value": 2324271170.0
+    },
+    {
+      "ticker": "008060",
+      "name": "대덕",
+      "close": 15610.0,
+      "market_cap": 488391599780.0,
+      "trading_value": 2405297915.0
+    },
+    {
+      "ticker": "145990",
+      "name": "삼양사",
+      "close": 47300.0,
+      "market_cap": 487826137700.0,
+      "trading_value": 350927750.0
+    },
+    {
+      "ticker": "029460",
+      "name": "케이씨",
+      "close": 37500.0,
+      "market_cap": 482630512500.0,
+      "trading_value": 1647324900.0
+    },
+    {
+      "ticker": "027410",
+      "name": "BGF",
+      "close": 5010.0,
+      "market_cap": 479541122910.0,
+      "trading_value": 1487738639.0
+    },
+    {
+      "ticker": "002710",
+      "name": "TCC스틸",
+      "close": 18250.0,
+      "market_cap": 478399970250.0,
+      "trading_value": 15250670650.0
+    },
+    {
+      "ticker": "452260",
+      "name": "한화갤러리아",
+      "close": 2460.0,
+      "market_cap": 476894640600.0,
+      "trading_value": 3491317161.0
+    },
+    {
+      "ticker": "105630",
+      "name": "한세실업",
+      "close": 11870.0,
+      "market_cap": 474800000000.0,
+      "trading_value": 515005200.0
+    },
+    {
+      "ticker": "017810",
+      "name": "풀무원",
+      "close": 12330.0,
+      "market_cap": 470026282860.0,
+      "trading_value": 616493550.0
+    },
+    {
+      "ticker": "145720",
+      "name": "덴티움",
+      "close": 54500.0,
+      "market_cap": 470002059500.0,
+      "trading_value": 1931674850.0
+    },
+    {
+      "ticker": "192650",
+      "name": "드림텍",
+      "close": 6730.0,
+      "market_cap": 464196359270.0,
+      "trading_value": 2296954610.0
+    },
+    {
+      "ticker": "344820",
+      "name": "KCC글라스",
+      "close": 28750.0,
+      "market_cap": 459152220000.0,
+      "trading_value": 1114340125.0
+    },
+    {
+      "ticker": "004700",
+      "name": "조광피혁",
+      "close": 69000.0,
+      "market_cap": 458790522000.0,
+      "trading_value": 237006350.0
+    },
+    {
+      "ticker": "089590",
+      "name": "제주항공",
+      "close": 5610.0,
+      "market_cap": 452395925850.0,
+      "trading_value": 1534933395.0
+    },
+    {
+      "ticker": "072710",
+      "name": "농심홀딩스",
+      "close": 95800.0,
+      "market_cap": 444300282000.0,
+      "trading_value": 333652000.0
+    },
+    {
+      "ticker": "170900",
+      "name": "동아에스티",
+      "close": 44900.0,
+      "market_cap": 436779073100.0,
+      "trading_value": 800708900.0
+    },
+    {
+      "ticker": "015360",
+      "name": "INVENI",
+      "close": 15990.0,
+      "market_cap": 435727500000.0,
+      "trading_value": 483023830.0
+    },
+    {
+      "ticker": "005610",
+      "name": "SPC삼립",
+      "close": 49900.0,
+      "market_cap": 430587549100.0,
+      "trading_value": 329666425.0
+    },
+    {
+      "ticker": "016800",
+      "name": "퍼시스",
+      "close": 37350.0,
+      "market_cap": 429525000000.0,
+      "trading_value": 21829250.0
+    },
+    {
+      "ticker": "025860",
+      "name": "남해화학",
+      "close": 8620.0,
+      "market_cap": 428231626660.0,
+      "trading_value": 13060703420.0
+    },
+    {
+      "ticker": "010690",
+      "name": "화신",
+      "close": 12240.0,
+      "market_cap": 427425818400.0,
+      "trading_value": 9311478690.0
+    },
+    {
+      "ticker": "092790",
+      "name": "넥스틸",
+      "close": 16380.0,
+      "market_cap": 425912760000.0,
+      "trading_value": 11831402100.0
+    },
+    {
+      "ticker": "015860",
+      "name": "일진홀딩스",
+      "close": 8610.0,
+      "market_cap": 424881828630.0,
+      "trading_value": 1195508485.0
+    },
+    {
+      "ticker": "183190",
+      "name": "아세아시멘트",
+      "close": 11610.0,
+      "market_cap": 423839629080.0,
+      "trading_value": 1002670640.0
+    },
+    {
+      "ticker": "091810",
+      "name": "트리니티항공",
+      "close": 1020.0,
+      "market_cap": 421228874700.0,
+      "trading_value": 1435140546.0
+    },
+    {
+      "ticker": "306200",
+      "name": "세아제강",
+      "close": 147500.0,
+      "market_cap": 418354250000.0,
+      "trading_value": 1975174400.0
+    },
+    {
+      "ticker": "126720",
+      "name": "수산인더스트리",
+      "close": 29050.0,
+      "market_cap": 415008300000.0,
+      "trading_value": 2165231800.0
+    },
+    {
+      "ticker": "097520",
+      "name": "엠씨넥스",
+      "close": 23750.0,
+      "market_cap": 413285625000.0,
+      "trading_value": 728734025.0
+    },
+    {
+      "ticker": "009290",
+      "name": "광동제약",
+      "close": 8210.0,
+      "market_cap": 408856423680.0,
+      "trading_value": 2051879435.0
+    },
+    {
+      "ticker": "012030",
+      "name": "DB",
+      "close": 2010.0,
+      "market_cap": 404359605330.0,
+      "trading_value": 6993320011.0
+    },
+    {
+      "ticker": "026890",
+      "name": "스틱인베스트먼트",
+      "close": 9700.0,
+      "market_cap": 404278297500.0,
+      "trading_value": 425416190.0
+    },
+    {
+      "ticker": "084010",
+      "name": "대한제강",
+      "close": 11670.0,
+      "market_cap": 401116525320.0,
+      "trading_value": 854515570.0
+    },
+    {
+      "ticker": "011500",
+      "name": "한농화성",
+      "close": 25250.0,
+      "market_cap": 394835310500.0,
+      "trading_value": 140186747475.0
+    },
+    {
+      "ticker": "018250",
+      "name": "애경산업",
+      "close": 14940.0,
+      "market_cap": 394564428900.0,
+      "trading_value": 801205500.0
+    },
+    {
+      "ticker": "034830",
+      "name": "한국토지신탁",
+      "close": 1552.0,
+      "market_cap": 391863284960.0,
+      "trading_value": 1006551661.0
+    },
+    {
+      "ticker": "403550",
+      "name": "쏘카",
+      "close": 11910.0,
+      "market_cap": 391147052820.0,
+      "trading_value": 1050589305.0
+    },
+    {
+      "ticker": "060980",
+      "name": "HL홀딩스",
+      "close": 42800.0,
+      "market_cap": 388574651600.0,
+      "trading_value": 757559475.0
+    },
+    {
+      "ticker": "007690",
+      "name": "국도화학",
+      "close": 41450.0,
+      "market_cap": 383861486400.0,
+      "trading_value": 1354144450.0
+    },
+    {
+      "ticker": "001940",
+      "name": "KISCO홀딩스",
+      "close": 27050.0,
+      "market_cap": 383471079000.0,
+      "trading_value": 110278200.0
+    },
+    {
+      "ticker": "194370",
+      "name": "제이에스코퍼레이션",
+      "close": 13180.0,
+      "market_cap": 382440870440.0,
+      "trading_value": 1300277205.0
+    },
+    {
+      "ticker": "001390",
+      "name": "KG케미칼",
+      "close": 5680.0,
+      "market_cap": 381883610400.0,
+      "trading_value": 2739160505.0
+    },
+    {
+      "ticker": "200880",
+      "name": "서연이화",
+      "close": 14070.0,
+      "market_cap": 380290108590.0,
+      "trading_value": 1833961220.0
+    },
+    {
+      "ticker": "126560",
+      "name": "현대퓨처넷",
+      "close": 3450.0,
+      "market_cap": 380200160250.0,
+      "trading_value": 509597755.0
+    },
+    {
+      "ticker": "011760",
+      "name": "현대코퍼레이션",
+      "close": 28650.0,
+      "market_cap": 379009875900.0,
+      "trading_value": 2875427525.0
+    },
+    {
+      "ticker": "001750",
+      "name": "한양증권",
+      "close": 29400.0,
+      "market_cap": 374218899600.0,
+      "trading_value": 1169153700.0
+    },
+    {
+      "ticker": "002310",
+      "name": "아세아제지",
+      "close": 9430.0,
+      "market_cap": 372008879300.0,
+      "trading_value": 1457856310.0
+    },
+    {
+      "ticker": "104700",
+      "name": "한국철강",
+      "close": 10130.0,
+      "market_cap": 369238500000.0,
+      "trading_value": 256977380.0
+    },
+    {
+      "ticker": "005720",
+      "name": "넥센",
+      "close": 6880.0,
+      "market_cap": 368382561760.0,
+      "trading_value": 360647595.0
+    },
+    {
+      "ticker": "001230",
+      "name": "동국홀딩스",
+      "close": 11470.0,
+      "market_cap": 364751540010.0,
+      "trading_value": 2698316465.0
+    },
+    {
+      "ticker": "092230",
+      "name": "KPX홀딩스",
+      "close": 86000.0,
+      "market_cap": 363319556000.0,
+      "trading_value": 171876700.0
+    },
+    {
+      "ticker": "002810",
+      "name": "삼영무역",
+      "close": 19510.0,
+      "market_cap": 360290155480.0,
+      "trading_value": 621140375.0
+    },
+    {
+      "ticker": "084690",
+      "name": "대상홀딩스",
+      "close": 9810.0,
+      "market_cap": 355244997780.0,
+      "trading_value": 373362600.0
+    },
+    {
+      "ticker": "017860",
+      "name": "DS단석",
+      "close": 20200.0,
+      "market_cap": 355201082400.0,
+      "trading_value": 2840226170.0
+    },
+    {
+      "ticker": "001340",
+      "name": "PKC",
+      "close": 7870.0,
+      "market_cap": 353507863090.0,
+      "trading_value": 5552165955.0
+    },
+    {
+      "ticker": "003720",
+      "name": "삼영",
+      "close": 10330.0,
+      "market_cap": 351220000000.0,
+      "trading_value": 43948752580.0
+    },
+    {
+      "ticker": "272450",
+      "name": "진에어",
+      "close": 6700.0,
+      "market_cap": 349740000000.0,
+      "trading_value": 794185855.0
+    },
+    {
+      "ticker": "009160",
+      "name": "SIMPAC",
+      "close": 5340.0,
+      "market_cap": 349080969120.0,
+      "trading_value": 280361090.0
+    },
+    {
+      "ticker": "078520",
+      "name": "에이블씨엔씨",
+      "close": 13380.0,
+      "market_cap": 348069474180.0,
+      "trading_value": 2381492010.0
+    },
+    {
+      "ticker": "286940",
+      "name": "롯데이노베이트",
+      "close": 22400.0,
+      "market_cap": 338897820800.0,
+      "trading_value": 1363069075.0
+    },
+    {
+      "ticker": "123890",
+      "name": "한국자산신탁",
+      "close": 2725.0,
+      "market_cap": 333468948350.0,
+      "trading_value": 515659821.0
+    },
+    {
+      "ticker": "900140",
+      "name": "엘브이엠씨홀딩스",
+      "close": 1718.0,
+      "market_cap": 331987062176.0,
+      "trading_value": 1151092241.0
+    },
+    {
+      "ticker": "033270",
+      "name": "유나이티드제약",
+      "close": 20700.0,
+      "market_cap": 329353042500.0,
+      "trading_value": 602705225.0
+    },
+    {
+      "ticker": "003520",
+      "name": "영진약품",
+      "close": 1796.0,
+      "market_cap": 328475344876.0,
+      "trading_value": 956340897.0
+    },
+    {
+      "ticker": "001460",
+      "name": "BYC",
+      "close": 52500.0,
+      "market_cap": 327922875000.0,
+      "trading_value": 500433800.0
+    },
+    {
+      "ticker": "037270",
+      "name": "YG PLUS",
+      "close": 5120.0,
+      "market_cap": 325955123200.0,
+      "trading_value": 3127567330.0
+    },
+    {
+      "ticker": "024720",
+      "name": "콜마홀딩스",
+      "close": 9490.0,
+      "market_cap": 325471497910.0,
+      "trading_value": 498831550.0
+    },
+    {
+      "ticker": "128820",
+      "name": "대성산업",
+      "close": 7050.0,
+      "market_cap": 318910119900.0,
+      "trading_value": 1901114610.0
+    },
+    {
+      "ticker": "053690",
+      "name": "한미글로벌",
+      "close": 29100.0,
+      "market_cap": 318864705000.0,
+      "trading_value": 28307578950.0
+    },
+    {
+      "ticker": "475560",
+      "name": "더본코리아",
+      "close": 21100.0,
+      "market_cap": 312870167000.0,
+      "trading_value": 197191200.0
+    },
+    {
+      "ticker": "017390",
+      "name": "서울가스",
+      "close": 63000.0,
+      "market_cap": 311850000000.0,
+      "trading_value": 339100600.0
+    },
+    {
+      "ticker": "008350",
+      "name": "남선알미늄",
+      "close": 2410.0,
+      "market_cap": 311080606900.0,
+      "trading_value": 22215408853.0
+    },
+    {
+      "ticker": "096760",
+      "name": "JW홀딩스",
+      "close": 4205.0,
+      "market_cap": 310854381110.0,
+      "trading_value": 419724136.0
+    },
+    {
+      "ticker": "003120",
+      "name": "일성아이에스",
+      "close": 23350.0,
+      "market_cap": 310555000000.0,
+      "trading_value": 52194850.0
+    },
+    {
+      "ticker": "000650",
+      "name": "천일고속",
+      "close": 217000.0,
+      "market_cap": 310140740000.0,
+      "trading_value": 390969250.0
+    },
+    {
+      "ticker": "003920",
+      "name": "남양유업",
+      "close": 51200.0,
+      "market_cap": 307200000000.0,
+      "trading_value": 416007900.0
+    },
+    {
+      "ticker": "037710",
+      "name": "광주신세계",
+      "close": 38200.0,
+      "market_cap": 303964658000.0,
+      "trading_value": 190492000.0
+    },
+    {
+      "ticker": "003960",
+      "name": "사조대림",
+      "close": 33050.0,
+      "market_cap": 302885634350.0,
+      "trading_value": 142324950.0
+    },
+    {
+      "ticker": "002320",
+      "name": "한진",
+      "close": 19480.0,
+      "market_cap": 302302639680.0,
+      "trading_value": 530430550.0
+    },
+    {
+      "ticker": "003070",
+      "name": "코오롱글로벌",
+      "close": 11860.0,
+      "market_cap": 301528153740.0,
+      "trading_value": 1680686845.0
+    },
+    {
+      "ticker": "005680",
+      "name": "삼영전자",
+      "close": 15010.0,
+      "market_cap": 300200000000.0,
+      "trading_value": 530761010.0
+    },
+    {
+      "ticker": "092200",
+      "name": "디아이씨",
+      "close": 7700.0,
+      "market_cap": 299441981300.0,
+      "trading_value": 2516631235.0
+    },
+    {
+      "ticker": "002900",
+      "name": "TYM",
+      "close": 7230.0,
+      "market_cap": 299322000000.0,
+      "trading_value": 1550460775.0
+    },
+    {
+      "ticker": "004360",
+      "name": "세방",
+      "close": 15570.0,
+      "market_cap": 297629938710.0,
+      "trading_value": 685717465.0
+    },
+    {
+      "ticker": "000490",
+      "name": "대동",
+      "close": 10280.0,
+      "market_cap": 296340172200.0,
+      "trading_value": 3370118395.0
+    },
+    {
+      "ticker": "000320",
+      "name": "노루홀딩스",
+      "close": 22150.0,
+      "market_cap": 294398994650.0,
+      "trading_value": 241491450.0
+    },
+    {
+      "ticker": "004980",
+      "name": "성신양회",
+      "close": 11820.0,
+      "market_cap": 289779982860.0,
+      "trading_value": 35905935775.0
+    },
+    {
+      "ticker": "058430",
+      "name": "포스코스틸리온",
+      "close": 48000.0,
+      "market_cap": 288000000000.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "034120",
+      "name": "SBS",
+      "close": 15520.0,
+      "market_cap": 287915213760.0,
+      "trading_value": 642756600.0
+    },
+    {
+      "ticker": "000540",
+      "name": "흥국화재",
+      "close": 4475.0,
+      "market_cap": 287485836375.0,
+      "trading_value": 408809545.0
+    },
+    {
+      "ticker": "003200",
+      "name": "일신방직",
+      "close": 12510.0,
+      "market_cap": 287229600000.0,
+      "trading_value": 173684090.0
+    },
+    {
+      "ticker": "044450",
+      "name": "KSS해운",
+      "close": 12430.0,
+      "market_cap": 286957488400.0,
+      "trading_value": 3258817015.0
+    },
+    {
+      "ticker": "005010",
+      "name": "휴스틸",
+      "close": 5090.0,
+      "market_cap": 285997301750.0,
+      "trading_value": 3847494155.0
+    },
+    {
+      "ticker": "092220",
+      "name": "KEC",
+      "close": 1418.0,
+      "market_cap": 284682133938.0,
+      "trading_value": 69380283036.0
+    },
+    {
+      "ticker": "108670",
+      "name": "LX하우시스",
+      "close": 31500.0,
+      "market_cap": 282481605000.0,
+      "trading_value": 719132150.0
+    },
+    {
+      "ticker": "241590",
+      "name": "화승엔터프라이즈",
+      "close": 4655.0,
+      "market_cap": 282043079780.0,
+      "trading_value": 465804887.0
+    },
+    {
+      "ticker": "009470",
+      "name": "삼화전기",
+      "close": 42300.0,
+      "market_cap": 279764586000.0,
+      "trading_value": 11986799650.0
+    },
+    {
+      "ticker": "035510",
+      "name": "신세계 I&C",
+      "close": 20000.0,
+      "market_cap": 279618000000.0,
+      "trading_value": 3897240570.0
+    },
+    {
+      "ticker": "013890",
+      "name": "지누스",
+      "close": 12510.0,
+      "market_cap": 278404745760.0,
+      "trading_value": 380556460.0
+    },
+    {
+      "ticker": "001250",
+      "name": "GS글로벌",
+      "close": 3370.0,
+      "market_cap": 278138784680.0,
+      "trading_value": 9048014471.0
+    },
+    {
+      "ticker": "001790",
+      "name": "대한제당",
+      "close": 3100.0,
+      "market_cap": 278059398000.0,
+      "trading_value": 2297936297.0
+    },
+    {
+      "ticker": "000680",
+      "name": "LS네트웍스",
+      "close": 3510.0,
+      "market_cap": 276598586160.0,
+      "trading_value": 935873809.0
+    },
+    {
+      "ticker": "011690",
+      "name": "와이투솔루션",
+      "close": 7500.0,
+      "market_cap": 275282955000.0,
+      "trading_value": 8777995620.0
+    },
+    {
+      "ticker": "134380",
+      "name": "미원화학",
+      "close": 12510.0,
+      "market_cap": 275128426800.0,
+      "trading_value": 236594960.0
+    },
+    {
+      "ticker": "000430",
+      "name": "대원강업",
+      "close": 4410.0,
+      "market_cap": 273420000000.0,
+      "trading_value": 531657675.0
+    },
+    {
+      "ticker": "000050",
+      "name": "경방",
+      "close": 9950.0,
+      "market_cap": 272781936500.0,
+      "trading_value": 539816000.0
+    },
+    {
+      "ticker": "007160",
+      "name": "사조산업",
+      "close": 54100.0,
+      "market_cap": 270500000000.0,
+      "trading_value": 196503450.0
+    },
+    {
+      "ticker": "084680",
+      "name": "이월드",
+      "close": 1907.0,
+      "market_cap": 270424410051.0,
+      "trading_value": 1553106380.0
+    },
+    {
+      "ticker": "004310",
+      "name": "현대약품",
+      "close": 8300.0,
+      "market_cap": 265600000000.0,
+      "trading_value": 4034505465.0
+    },
+    {
+      "ticker": "001130",
+      "name": "대한제분",
+      "close": 156500.0,
+      "market_cap": 264485000000.0,
+      "trading_value": 865023250.0
+    },
+    {
+      "ticker": "035150",
+      "name": "백산",
+      "close": 12960.0,
+      "market_cap": 263219582880.0,
+      "trading_value": 259537660.0
+    },
+    {
+      "ticker": "013580",
+      "name": "계룡건설",
+      "close": 29250.0,
+      "market_cap": 261229029750.0,
+      "trading_value": 9922918850.0
+    },
+    {
+      "ticker": "000390",
+      "name": "삼화페인트",
+      "close": 9540.0,
+      "market_cap": 259521094260.0,
+      "trading_value": 17115068550.0
+    },
+    {
+      "ticker": "136490",
+      "name": "선진",
+      "close": 10900.0,
+      "market_cap": 259197683600.0,
+      "trading_value": 1098213590.0
+    },
+    {
+      "ticker": "030210",
+      "name": "다올투자증권",
+      "close": 4250.0,
+      "market_cap": 258872200500.0,
+      "trading_value": 567112447.0
+    },
+    {
+      "ticker": "033920",
+      "name": "무학",
+      "close": 9010.0,
+      "market_cap": 256785000000.0,
+      "trading_value": 292109270.0
+    },
+    {
+      "ticker": "122900",
+      "name": "아이마켓코리아",
+      "close": 7600.0,
+      "market_cap": 254059184000.0,
+      "trading_value": 434513780.0
+    },
+    {
+      "ticker": "001630",
+      "name": "종근당홀딩스",
+      "close": 50500.0,
+      "market_cap": 252997980500.0,
+      "trading_value": 395701500.0
+    },
+    {
+      "ticker": "117580",
+      "name": "대성에너지",
+      "close": 9110.0,
+      "market_cap": 250525000000.0,
+      "trading_value": 2278570300.0
+    },
+    {
+      "ticker": "005500",
+      "name": "삼진제약",
+      "close": 18800.0,
+      "market_cap": 250416000000.0,
+      "trading_value": 401212510.0
+    },
+    {
+      "ticker": "004430",
+      "name": "송원산업",
+      "close": 10410.0,
+      "market_cap": 249840000000.0,
+      "trading_value": 10698516500.0
+    },
+    {
+      "ticker": "001780",
+      "name": "알루코",
+      "close": 2565.0,
+      "market_cap": 248369288580.0,
+      "trading_value": 5132579811.0
+    },
+    {
+      "ticker": "004380",
+      "name": "삼익THK",
+      "close": 11820.0,
+      "market_cap": 244674000000.0,
+      "trading_value": 2428615075.0
+    },
+    {
+      "ticker": "298690",
+      "name": "에어부산",
+      "close": 2095.0,
+      "market_cap": 244360800000.0,
+      "trading_value": 522676631.0
+    },
+    {
+      "ticker": "005950",
+      "name": "이수화학",
+      "close": 9250.0,
+      "market_cap": 243221063250.0,
+      "trading_value": 6580271770.0
+    },
+    {
+      "ticker": "244920",
+      "name": "에이플러스에셋",
+      "close": 10740.0,
+      "market_cap": 242806622820.0,
+      "trading_value": 358616665.0
+    },
+    {
+      "ticker": "002150",
+      "name": "도화엔지니어링",
+      "close": 7160.0,
+      "market_cap": 241435200000.0,
+      "trading_value": 1446656720.0
+    },
+    {
+      "ticker": "003220",
+      "name": "대원제약",
+      "close": 10750.0,
+      "market_cap": 241096517250.0,
+      "trading_value": 257374495.0
+    },
+    {
+      "ticker": "028100",
+      "name": "동아지질",
+      "close": 17980.0,
+      "market_cap": 240743245960.0,
+      "trading_value": 987706550.0
+    },
+    {
+      "ticker": "210980",
+      "name": "SK디앤디",
+      "close": 12920.0,
+      "market_cap": 240536575440.0,
+      "trading_value": 297247190.0
+    },
+    {
+      "ticker": "010580",
+      "name": "에스엠벡셀",
+      "close": 2155.0,
+      "market_cap": 239747542800.0,
+      "trading_value": 1228618808.0
+    },
+    {
+      "ticker": "004560",
+      "name": "현대비앤지스틸",
+      "close": 15860.0,
+      "market_cap": 239149942460.0,
+      "trading_value": 2650000055.0
+    },
+    {
+      "ticker": "009680",
+      "name": "모토닉",
+      "close": 10960.0,
+      "market_cap": 238194710240.0,
+      "trading_value": 209262260.0
+    },
+    {
+      "ticker": "000480",
+      "name": "CR홀딩스",
+      "close": 5050.0,
+      "market_cap": 236796974500.0,
+      "trading_value": 94029600.0
+    },
+    {
+      "ticker": "004710",
+      "name": "한솔테크닉스",
+      "close": 7440.0,
+      "market_cap": 236516692320.0,
+      "trading_value": 7799659530.0
+    },
+    {
+      "ticker": "053210",
+      "name": "스카이라이프",
+      "close": 4950.0,
+      "market_cap": 235238627250.0,
+      "trading_value": 212584695.0
+    },
+    {
+      "ticker": "009580",
+      "name": "무림P&P",
+      "close": 3750.0,
+      "market_cap": 233881215000.0,
+      "trading_value": 82140056175.0
+    },
+    {
+      "ticker": "016880",
+      "name": "웅진",
+      "close": 2925.0,
+      "market_cap": 233786709000.0,
+      "trading_value": 3219466950.0
+    },
+    {
+      "ticker": "226320",
+      "name": "잇츠한불",
+      "close": 10530.0,
+      "market_cap": 230915686950.0,
+      "trading_value": 126641155.0
+    },
+    {
+      "ticker": "095570",
+      "name": "AJ네트웍스",
+      "close": 5100.0,
+      "market_cap": 230789070900.0,
+      "trading_value": 641098340.0
+    },
+    {
+      "ticker": "025000",
+      "name": "KPX케미칼",
+      "close": 52300.0,
+      "market_cap": 229006480700.0,
+      "trading_value": 130736600.0
+    },
+    {
+      "ticker": "008490",
+      "name": "서흥",
+      "close": 19480.0,
+      "market_cap": 225366321240.0,
+      "trading_value": 690113540.0
+    },
+    {
+      "ticker": "007860",
+      "name": "서연",
+      "close": 9540.0,
+      "market_cap": 223997711760.0,
+      "trading_value": 913427205.0
+    },
+    {
+      "ticker": "339770",
+      "name": "교촌에프앤비",
+      "close": 4470.0,
+      "market_cap": 223343907600.0,
+      "trading_value": 386366852.0
+    },
+    {
+      "ticker": "007570",
+      "name": "일양약품",
+      "close": 11690.0,
+      "market_cap": 223111412160.0,
+      "trading_value": 1281969445.0
+    },
+    {
+      "ticker": "033530",
+      "name": "SJG세종",
+      "close": 7950.0,
+      "market_cap": 221176639950.0,
+      "trading_value": 1027648265.0
+    },
+    {
+      "ticker": "102260",
+      "name": "동성케미컬",
+      "close": 4375.0,
+      "market_cap": 219523460625.0,
+      "trading_value": 612665862.0
+    },
+    {
+      "ticker": "003610",
+      "name": "방림",
+      "close": 5440.0,
+      "market_cap": 218699739520.0,
+      "trading_value": 278671190.0
+    },
+    {
+      "ticker": "017550",
+      "name": "수산세보틱스",
+      "close": 3490.0,
+      "market_cap": 217772963700.0,
+      "trading_value": 96654554274.0
+    },
+    {
+      "ticker": "001080",
+      "name": "만호제강",
+      "close": 5170.0,
+      "market_cap": 214555000000.0,
+      "trading_value": 129207440.0
+    },
+    {
+      "ticker": "000140",
+      "name": "하이트진로홀딩스",
+      "close": 9180.0,
+      "market_cap": 213038102700.0,
+      "trading_value": 161686535.0
+    },
+    {
+      "ticker": "039570",
+      "name": "HDC랩스",
+      "close": 8170.0,
+      "market_cap": 212073600170.0,
+      "trading_value": 64747300.0
+    },
+    {
+      "ticker": "018470",
+      "name": "조일알미늄",
+      "close": 1669.0,
+      "market_cap": 211348342349.0,
+      "trading_value": 10146974979.0
+    },
+    {
+      "ticker": "213500",
+      "name": "한솔제지",
+      "close": 8840.0,
+      "market_cap": 210397091840.0,
+      "trading_value": 1131651295.0
+    },
+    {
+      "ticker": "000860",
+      "name": "강남제비스코",
+      "close": 16090.0,
+      "market_cap": 209170000000.0,
+      "trading_value": 777373705.0
+    },
+    {
+      "ticker": "000520",
+      "name": "삼일제약",
+      "close": 9620.0,
+      "market_cap": 208675221820.0,
+      "trading_value": 3149621090.0
+    },
+    {
+      "ticker": "003350",
+      "name": "한국화장품제조",
+      "close": 9200.0,
+      "market_cap": 208472000000.0,
+      "trading_value": 1115678545.0
+    },
+    {
+      "ticker": "005960",
+      "name": "동부건설",
+      "close": 9080.0,
+      "market_cap": 208355700040.0,
+      "trading_value": 1979392880.0
+    },
+    {
+      "ticker": "003650",
+      "name": "미창석유",
+      "close": 119700.0,
+      "market_cap": 208238738400.0,
+      "trading_value": 173384800.0
+    },
+    {
+      "ticker": "102460",
+      "name": "이연제약",
+      "close": 11180.0,
+      "market_cap": 207800546980.0,
+      "trading_value": 672440815.0
+    },
+    {
+      "ticker": "487570",
+      "name": "HS효성",
+      "close": 55600.0,
+      "market_cap": 207161541200.0,
+      "trading_value": 362398300.0
+    },
+    {
+      "ticker": "271980",
+      "name": "제일약품",
+      "close": 14070.0,
+      "market_cap": 206897549040.0,
+      "trading_value": 518585320.0
+    },
+    {
+      "ticker": "081000",
+      "name": "일진다이아",
+      "close": 14400.0,
+      "market_cap": 204522840000.0,
+      "trading_value": 551022605.0
+    },
+    {
+      "ticker": "234080",
+      "name": "JW생명과학",
+      "close": 12860.0,
+      "market_cap": 203632364440.0,
+      "trading_value": 404450920.0
+    },
+    {
+      "ticker": "004090",
+      "name": "한국석유",
+      "close": 16000.0,
+      "market_cap": 203105920000.0,
+      "trading_value": 4705155565.0
+    },
+    {
+      "ticker": "016580",
+      "name": "환인제약",
+      "close": 10780.0,
+      "market_cap": 200508754600.0,
+      "trading_value": 543245155.0
+    },
+    {
+      "ticker": "008970",
+      "name": "KBI동양철관",
+      "close": 1923.0,
+      "market_cap": 199543762161.0,
+      "trading_value": 4514924605.0
+    },
+    {
+      "ticker": "002990",
+      "name": "금호건설",
+      "close": 5370.0,
+      "market_cap": 198672601200.0,
+      "trading_value": 1484703500.0
+    },
+    {
+      "ticker": "003460",
+      "name": "유화증권",
+      "close": 3440.0,
+      "market_cap": 195056307600.0,
+      "trading_value": 460313346.0
+    },
+    {
+      "ticker": "100250",
+      "name": "진양홀딩스",
+      "close": 3050.0,
+      "market_cap": 194895000000.0,
+      "trading_value": 237956225.0
+    },
+    {
+      "ticker": "031440",
+      "name": "신세계푸드",
+      "close": 50200.0,
+      "market_cap": 194398496000.0,
+      "trading_value": 120634900.0
+    },
+    {
+      "ticker": "002100",
+      "name": "경농",
+      "close": 9910.0,
+      "market_cap": 193468718250.0,
+      "trading_value": 1017069020.0
+    },
+    {
+      "ticker": "001520",
+      "name": "동양",
+      "close": 806.0,
+      "market_cap": 192379354778.0,
+      "trading_value": 412912853.0
+    },
+    {
+      "ticker": "071840",
+      "name": "롯데하이마트",
+      "close": 8070.0,
+      "market_cap": 190514235840.0,
+      "trading_value": 157812175.0
+    },
+    {
+      "ticker": "015230",
+      "name": "대창단조",
+      "close": 6980.0,
+      "market_cap": 189462467600.0,
+      "trading_value": 885511430.0
+    },
+    {
+      "ticker": "317400",
+      "name": "자이에스앤디",
+      "close": 4850.0,
+      "market_cap": 188095222000.0,
+      "trading_value": 2156552877.0
+    },
+    {
+      "ticker": "006060",
+      "name": "화승인더",
+      "close": 3395.0,
+      "market_cap": 187811400000.0,
+      "trading_value": 177263248.0
+    },
+    {
+      "ticker": "101530",
+      "name": "해태제과식품",
+      "close": 6450.0,
+      "market_cap": 187803501900.0,
+      "trading_value": 2019767265.0
+    },
+    {
+      "ticker": "016450",
+      "name": "한세예스24홀딩스",
+      "close": 4660.0,
+      "market_cap": 186400000000.0,
+      "trading_value": 135601770.0
+    },
+    {
+      "ticker": "009070",
+      "name": "KCTC",
+      "close": 6210.0,
+      "market_cap": 186300000000.0,
+      "trading_value": 860818125.0
+    },
+    {
+      "ticker": "037560",
+      "name": "LG헬로비전",
+      "close": 2380.0,
+      "market_cap": 184323538700.0,
+      "trading_value": 155713616.0
+    },
+    {
+      "ticker": "005430",
+      "name": "한국공항",
+      "close": 57900.0,
+      "market_cap": 183331954500.0,
+      "trading_value": 209181100.0
+    },
+    {
+      "ticker": "002170",
+      "name": "SYTS",
+      "close": 60100.0,
+      "market_cap": 180300000000.0,
+      "trading_value": 88747900.0
+    },
+    {
+      "ticker": "025820",
+      "name": "이구산업",
+      "close": 5390.0,
+      "market_cap": 180252380000.0,
+      "trading_value": 1912085455.0
+    },
+    {
+      "ticker": "272550",
+      "name": "삼양패키징",
+      "close": 11800.0,
+      "market_cap": 177807190800.0,
+      "trading_value": 1148229935.0
+    },
+    {
+      "ticker": "090350",
+      "name": "노루페인트",
+      "close": 8870.0,
+      "market_cap": 177400000000.0,
+      "trading_value": 1727194695.0
+    },
+    {
+      "ticker": "012610",
+      "name": "경인양행",
+      "close": 4260.0,
+      "market_cap": 177285714900.0,
+      "trading_value": 13942409545.0
+    },
+    {
+      "ticker": "012200",
+      "name": "계양전기",
+      "close": 6500.0,
+      "market_cap": 176948388500.0,
+      "trading_value": 2156988155.0
+    },
+    {
+      "ticker": "001360",
+      "name": "삼성제약",
+      "close": 1865.0,
+      "market_cap": 175612277335.0,
+      "trading_value": 1680111776.0
+    },
+    {
+      "ticker": "214420",
+      "name": "토니모리",
+      "close": 7260.0,
+      "market_cap": 174637840740.0,
+      "trading_value": 919806145.0
+    },
+    {
+      "ticker": "293480",
+      "name": "하나제약",
+      "close": 9820.0,
+      "market_cap": 174530329720.0,
+      "trading_value": 331336780.0
+    },
+    {
+      "ticker": "000300",
+      "name": "DH오토넥스",
+      "close": 4200.0,
+      "market_cap": 174035631000.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "004960",
+      "name": "한신공영",
+      "close": 15020.0,
+      "market_cap": 173791944040.0,
+      "trading_value": 1976358410.0
+    },
+    {
+      "ticker": "462520",
+      "name": "조선내화",
+      "close": 14600.0,
+      "market_cap": 173085452800.0,
+      "trading_value": 143423580.0
+    },
+    {
+      "ticker": "460850",
+      "name": "동국씨엠",
+      "close": 5780.0,
+      "market_cap": 172814231680.0,
+      "trading_value": 445568105.0
+    },
+    {
+      "ticker": "089470",
+      "name": "HDC현대EP",
+      "close": 5350.0,
+      "market_cap": 170665000000.0,
+      "trading_value": 395368290.0
+    },
+    {
+      "ticker": "044820",
+      "name": "코스맥스비티아이",
+      "close": 17730.0,
+      "market_cap": 170277519330.0,
+      "trading_value": 424144540.0
+    },
+    {
+      "ticker": "000020",
+      "name": "동화약품",
+      "close": 5990.0,
+      "market_cap": 167309505300.0,
+      "trading_value": 441473510.0
+    },
+    {
+      "ticker": "079430",
+      "name": "현대리바트",
+      "close": 8100.0,
+      "market_cap": 166335784200.0,
+      "trading_value": 49317295495.0
+    },
+    {
+      "ticker": "025620",
+      "name": "차AI헬스케어",
+      "close": 9060.0,
+      "market_cap": 164927995380.0,
+      "trading_value": 286242770.0
+    },
+    {
+      "ticker": "000700",
+      "name": "유수홀딩스",
+      "close": 6330.0,
+      "market_cap": 164844669960.0,
+      "trading_value": 374478525.0
+    },
+    {
+      "ticker": "00279K",
+      "name": "아모레퍼시픽홀딩스3우C",
+      "close": 23150.0,
+      "market_cap": 164184430000.0,
+      "trading_value": 92638300.0
+    },
+    {
+      "ticker": "214390",
+      "name": "경보제약",
+      "close": 6860.0,
+      "market_cap": 164001059600.0,
+      "trading_value": 1464315950.0
+    },
+    {
+      "ticker": "009270",
+      "name": "신원",
+      "close": 1415.0,
+      "market_cap": 162400106095.0,
+      "trading_value": 539579851.0
+    },
+    {
+      "ticker": "000970",
+      "name": "한국주철관",
+      "close": 7120.0,
+      "market_cap": 162339560000.0,
+      "trading_value": 253204620.0
+    },
+    {
+      "ticker": "003830",
+      "name": "대한화섬",
+      "close": 122000.0,
+      "market_cap": 162016000000.0,
+      "trading_value": 9801200.0
+    },
+    {
+      "ticker": "003480",
+      "name": "한진중공업홀딩스",
+      "close": 5390.0,
+      "market_cap": 159165686680.0,
+      "trading_value": 554962530.0
+    },
+    {
+      "ticker": "078000",
+      "name": "텔코웨어",
+      "close": 17220.0,
+      "market_cap": 159114125940.0,
+      "trading_value": 229902030.0
+    },
+    {
+      "ticker": "014280",
+      "name": "금강공업",
+      "close": 5320.0,
+      "market_cap": 156032179240.0,
+      "trading_value": 283379665.0
+    },
+    {
+      "ticker": "004970",
+      "name": "신라교역",
+      "close": 9700.0,
+      "market_cap": 155200000000.0,
+      "trading_value": 266595250.0
+    },
+    {
+      "ticker": "027970",
+      "name": "한국제지",
+      "close": 806.0,
+      "market_cap": 153283659022.0,
+      "trading_value": 243707983.0
+    },
+    {
+      "ticker": "007540",
+      "name": "샘표",
+      "close": 53200.0,
+      "market_cap": 152992560000.0,
+      "trading_value": 360547050.0
+    },
+    {
+      "ticker": "011280",
+      "name": "태림포장",
+      "close": 2155.0,
+      "market_cap": 152586800700.0,
+      "trading_value": 735206668.0
+    },
+    {
+      "ticker": "002780",
+      "name": "진흥기업",
+      "close": 1037.0,
+      "market_cap": 150854199565.0,
+      "trading_value": 2159244756.0
+    },
+    {
+      "ticker": "070960",
+      "name": "모나용평",
+      "close": 3125.0,
+      "market_cap": 150416665625.0,
+      "trading_value": 337966805.0
+    },
+    {
+      "ticker": "094280",
+      "name": "효성ITX",
+      "close": 12950.0,
+      "market_cap": 149678690000.0,
+      "trading_value": 586001540.0
+    },
+    {
+      "ticker": "107590",
+      "name": "미원홀딩스",
+      "close": 64100.0,
+      "market_cap": 148712000000.0,
+      "trading_value": 11432900.0
+    },
+    {
+      "ticker": "012320",
+      "name": "경동인베스트",
+      "close": 62700.0,
+      "market_cap": 148286942100.0,
+      "trading_value": 2234566300.0
+    },
+    {
+      "ticker": "015890",
+      "name": "태경산업",
+      "close": 5070.0,
+      "market_cap": 148189762500.0,
+      "trading_value": 389197255.0
+    },
+    {
+      "ticker": "021820",
+      "name": "세원정공",
+      "close": 14810.0,
+      "market_cap": 148100000000.0,
+      "trading_value": 474925325.0
+    },
+    {
+      "ticker": "298000",
+      "name": "효성화학",
+      "close": 38900.0,
+      "market_cap": 147501447900.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "077500",
+      "name": "유니퀘스트",
+      "close": 6810.0,
+      "market_cap": 147096694620.0,
+      "trading_value": 4490285745.0
+    },
+    {
+      "ticker": "004250",
+      "name": "NPC",
+      "close": 3990.0,
+      "market_cap": 146512800000.0,
+      "trading_value": 385926687.0
+    },
+    {
+      "ticker": "083420",
+      "name": "그린케미칼",
+      "close": 6090.0,
+      "market_cap": 146160000000.0,
+      "trading_value": 439099990.0
+    },
+    {
+      "ticker": "013520",
+      "name": "화승코퍼레이션",
+      "close": 2890.0,
+      "market_cap": 144648118280.0,
+      "trading_value": 200087127.0
+    },
+    {
+      "ticker": "008040",
+      "name": "사조동아원",
+      "close": 1020.0,
+      "market_cap": 143967492000.0,
+      "trading_value": 762732995.0
+    },
+    {
+      "ticker": "002390",
+      "name": "한독",
+      "close": 10440.0,
+      "market_cap": 143691284520.0,
+      "trading_value": 204620155.0
+    },
+    {
+      "ticker": "002620",
+      "name": "제일파마홀딩스",
+      "close": 8950.0,
+      "market_cap": 142961527250.0,
+      "trading_value": 251178020.0
+    },
+    {
+      "ticker": "024090",
+      "name": "디씨엠",
+      "close": 12520.0,
+      "market_cap": 142728000000.0,
+      "trading_value": 62399880.0
+    },
+    {
+      "ticker": "010100",
+      "name": "한국무브넥스",
+      "close": 4630.0,
+      "market_cap": 140985444600.0,
+      "trading_value": 921718429.0
+    },
+    {
+      "ticker": "011700",
+      "name": "한신기계",
+      "close": 4345.0,
+      "market_cap": 140978526095.0,
+      "trading_value": 1715675796.0
+    },
+    {
+      "ticker": "020120",
+      "name": "키다리스튜디오",
+      "close": 3800.0,
+      "market_cap": 140842310800.0,
+      "trading_value": 517048889.0
+    },
+    {
+      "ticker": "363280",
+      "name": "티와이홀딩스",
+      "close": 2780.0,
+      "market_cap": 140193365040.0,
+      "trading_value": 100295194.0
+    },
+    {
+      "ticker": "004150",
+      "name": "한솔홀딩스",
+      "close": 3400.0,
+      "market_cap": 139490508000.0,
+      "trading_value": 279527957.0
+    },
+    {
+      "ticker": "014530",
+      "name": "극동유화",
+      "close": 3970.0,
+      "market_cap": 138431597400.0,
+      "trading_value": 1143768277.0
+    },
+    {
+      "ticker": "005800",
+      "name": "신영와코루",
+      "close": 15340.0,
+      "market_cap": 138060000000.0,
+      "trading_value": 65388280.0
+    },
+    {
+      "ticker": "004140",
+      "name": "동방",
+      "close": 2875.0,
+      "market_cap": 137918827250.0,
+      "trading_value": 2412842497.0
+    },
+    {
+      "ticker": "016710",
+      "name": "대성홀딩스",
+      "close": 8550.0,
+      "market_cap": 137564874450.0,
+      "trading_value": 91819450.0
+    },
+    {
+      "ticker": "007210",
+      "name": "벽산",
+      "close": 2100.0,
+      "market_cap": 137256000000.0,
+      "trading_value": 863744334.0
+    },
+    {
+      "ticker": "035000",
+      "name": "HS애드",
+      "close": 8460.0,
+      "market_cap": 137116668240.0,
+      "trading_value": 216702085.0
+    },
+    {
+      "ticker": "014790",
+      "name": "HL D&I",
+      "close": 3590.0,
+      "market_cap": 135912377590.0,
+      "trading_value": 479733959.0
+    },
+    {
+      "ticker": "019180",
+      "name": "티에이치엔",
+      "close": 7530.0,
+      "market_cap": 135540000000.0,
+      "trading_value": 1787667335.0
+    },
+    {
+      "ticker": "013570",
+      "name": "디와이",
+      "close": 5140.0,
+      "market_cap": 135282913620.0,
+      "trading_value": 650330375.0
+    },
+    {
+      "ticker": "019680",
+      "name": "대교",
+      "close": 1586.0,
+      "market_cap": 134338720100.0,
+      "trading_value": 83871811.0
+    },
+    {
+      "ticker": "123690",
+      "name": "한국화장품",
+      "close": 8360.0,
+      "market_cap": 134328480000.0,
+      "trading_value": 737691400.0
+    },
+    {
+      "ticker": "012800",
+      "name": "대창",
+      "close": 1470.0,
+      "market_cap": 133976533530.0,
+      "trading_value": 1401467298.0
+    },
+    {
+      "ticker": "014710",
+      "name": "사조씨푸드",
+      "close": 7760.0,
+      "market_cap": 133615893680.0,
+      "trading_value": 111867240.0
+    },
+    {
+      "ticker": "007110",
+      "name": "일신석재",
+      "close": 1725.0,
+      "market_cap": 133612652250.0,
+      "trading_value": 709920124.0
+    },
+    {
+      "ticker": "014160",
+      "name": "대영포장",
+      "close": 1231.0,
+      "market_cap": 133433689819.0,
+      "trading_value": 4681204573.0
+    },
+    {
+      "ticker": "016740",
+      "name": "두올",
+      "close": 4650.0,
+      "market_cap": 133334211600.0,
+      "trading_value": 621930652.0
+    },
+    {
+      "ticker": "267290",
+      "name": "경동도시가스",
+      "close": 22600.0,
+      "market_cap": 133236175600.0,
+      "trading_value": 268275075.0
+    },
+    {
+      "ticker": "002460",
+      "name": "HS화성",
+      "close": 13120.0,
+      "market_cap": 133168000000.0,
+      "trading_value": 126756505.0
+    },
+    {
+      "ticker": "067830",
+      "name": "세이브존I&C",
+      "close": 3230.0,
+      "market_cap": 132562090850.0,
+      "trading_value": 183625320.0
+    },
+    {
+      "ticker": "004080",
+      "name": "신흥",
+      "close": 14080.0,
+      "market_cap": 132352000000.0,
+      "trading_value": 125449180.0
+    },
+    {
+      "ticker": "036580",
+      "name": "팜스코",
+      "close": 3600.0,
+      "market_cap": 132220594800.0,
+      "trading_value": 383065935.0
+    },
+    {
+      "ticker": "005870",
+      "name": "휴니드",
+      "close": 9340.0,
+      "market_cap": 131843580100.0,
+      "trading_value": 4114792130.0
+    },
+    {
+      "ticker": "095720",
+      "name": "웅진씽크빅",
+      "close": 1150.0,
+      "market_cap": 130702296650.0,
+      "trading_value": 101562332.0
+    },
+    {
+      "ticker": "004100",
+      "name": "태양금속",
+      "close": 3540.0,
+      "market_cap": 129918000000.0,
+      "trading_value": 2150747600.0
+    },
+    {
+      "ticker": "014580",
+      "name": "태경비케이",
+      "close": 4655.0,
+      "market_cap": 128399330500.0,
+      "trading_value": 556879410.0
+    },
+    {
+      "ticker": "139990",
+      "name": "아주스틸",
+      "close": 3280.0,
+      "market_cap": 127117757920.0,
+      "trading_value": 91844302.0
+    },
+    {
+      "ticker": "120030",
+      "name": "조선선재",
+      "close": 100400.0,
+      "market_cap": 126268160400.0,
+      "trading_value": 101353200.0
+    },
+    {
+      "ticker": "248170",
+      "name": "샘표식품",
+      "close": 27250.0,
+      "market_cap": 124485793500.0,
+      "trading_value": 451923850.0
+    },
+    {
+      "ticker": "001290",
+      "name": "상상인증권",
+      "close": 1141.0,
+      "market_cap": 123612653920.0,
+      "trading_value": 892556598.0
+    },
+    {
+      "ticker": "002220",
+      "name": "한일철강",
+      "close": 4610.0,
+      "market_cap": 123075290600.0,
+      "trading_value": 307649273.0
+    },
+    {
+      "ticker": "023800",
+      "name": "인지컨트롤스",
+      "close": 7780.0,
+      "market_cap": 122995552660.0,
+      "trading_value": 731019750.0
+    },
+    {
+      "ticker": "011000",
+      "name": "진원생명과학",
+      "close": 1346.0,
+      "market_cap": 122328392822.0,
+      "trading_value": 58621505200.0
+    },
+    {
+      "ticker": "015590",
+      "name": "DKME",
+      "close": 515.0,
+      "market_cap": 122045495160.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "001020",
+      "name": "페이퍼코리아",
+      "close": 680.0,
+      "market_cap": 121028652840.0,
+      "trading_value": 111426447.0
+    },
+    {
+      "ticker": "267850",
+      "name": "아시아나IDT",
+      "close": 10820.0,
+      "market_cap": 120102000000.0,
+      "trading_value": 112025480.0
+    },
+    {
+      "ticker": "036420",
+      "name": "콘텐트리중앙",
+      "close": 6150.0,
+      "market_cap": 118463194200.0,
+      "trading_value": 346719955.0
+    },
+    {
+      "ticker": "034590",
+      "name": "인천도시가스",
+      "close": 27050.0,
+      "market_cap": 118337095700.0,
+      "trading_value": 103929300.0
+    },
+    {
+      "ticker": "227840",
+      "name": "현대코퍼레이션홀딩스",
+      "close": 12910.0,
+      "market_cap": 117491792760.0,
+      "trading_value": 278082440.0
+    },
+    {
+      "ticker": "003580",
+      "name": "HLB글로벌",
+      "close": 2315.0,
+      "market_cap": 117286014075.0,
+      "trading_value": 294194445.0
+    },
+    {
+      "ticker": "084670",
+      "name": "동양고속",
+      "close": 40200.0,
+      "market_cap": 116401873800.0,
+      "trading_value": 627146875.0
+    },
+    {
+      "ticker": "058850",
+      "name": "KTcs",
+      "close": 2725.0,
+      "market_cap": 116316625000.0,
+      "trading_value": 297952372.0
+    },
+    {
+      "ticker": "017370",
+      "name": "우신시스템",
+      "close": 6350.0,
+      "market_cap": 116294242900.0,
+      "trading_value": 471516800.0
+    },
+    {
+      "ticker": "000230",
+      "name": "일동홀딩스",
+      "close": 10050.0,
+      "market_cap": 115981020000.0,
+      "trading_value": 256707210.0
+    },
+    {
+      "ticker": "002450",
+      "name": "삼익악기",
+      "close": 1279.0,
+      "market_cap": 115789040285.0,
+      "trading_value": 208085228.0
+    },
+    {
+      "ticker": "002200",
+      "name": "한국수출포장",
+      "close": 2995.0,
+      "market_cap": 113810000000.0,
+      "trading_value": 647579669.0
+    },
+    {
+      "ticker": "010660",
+      "name": "화천기계",
+      "close": 5160.0,
+      "market_cap": 113520000000.0,
+      "trading_value": 1652835665.0
+    },
+    {
+      "ticker": "006840",
+      "name": "AK홀딩스",
+      "close": 8510.0,
+      "market_cap": 112736744110.0,
+      "trading_value": 63241665.0
+    },
+    {
+      "ticker": "079980",
+      "name": "휴비스",
+      "close": 3260.0,
+      "market_cap": 112470000000.0,
+      "trading_value": 2287004456.0
+    },
+    {
+      "ticker": "008700",
+      "name": "아남전자",
+      "close": 1447.0,
+      "market_cap": 111599614540.0,
+      "trading_value": 900211380.0
+    },
+    {
+      "ticker": "013360",
+      "name": "일성건설",
+      "close": 2065.0,
+      "market_cap": 111561377200.0,
+      "trading_value": 3688751151.0
+    },
+    {
+      "ticker": "011810",
+      "name": "STX",
+      "close": 3530.0,
+      "market_cap": 109493282310.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "008260",
+      "name": "NI스틸",
+      "close": 3810.0,
+      "market_cap": 108966445770.0,
+      "trading_value": 707744460.0
+    },
+    {
+      "ticker": "063160",
+      "name": "종근당바이오",
+      "close": 19840.0,
+      "market_cap": 108841486080.0,
+      "trading_value": 418993915.0
+    },
+    {
+      "ticker": "264900",
+      "name": "크라운제과",
+      "close": 8690.0,
+      "market_cap": 108832256500.0,
+      "trading_value": 261441200.0
+    },
+    {
+      "ticker": "163560",
+      "name": "동일고무벨트",
+      "close": 7790.0,
+      "market_cap": 108281000000.0,
+      "trading_value": 1439511050.0
+    },
+    {
+      "ticker": "004840",
+      "name": "DRB동일",
+      "close": 5590.0,
+      "market_cap": 107732514760.0,
+      "trading_value": 229661220.0
+    },
+    {
+      "ticker": "023450",
+      "name": "동남합성",
+      "close": 30300.0,
+      "market_cap": 106050000000.0,
+      "trading_value": 60099100.0
+    },
+    {
+      "ticker": "032560",
+      "name": "황금에스티",
+      "close": 6190.0,
+      "market_cap": 105230000000.0,
+      "trading_value": 265799330.0
+    },
+    {
+      "ticker": "005740",
+      "name": "크라운해태홀딩스",
+      "close": 7050.0,
+      "market_cap": 104673796350.0,
+      "trading_value": 143524710.0
+    },
+    {
+      "ticker": "002700",
+      "name": "신일전자",
+      "close": 1470.0,
+      "market_cap": 102969855870.0,
+      "trading_value": 635132279.0
+    },
+    {
+      "ticker": "006660",
+      "name": "삼성공조",
+      "close": 12670.0,
+      "market_cap": 102960398380.0,
+      "trading_value": 438509775.0
+    },
+    {
+      "ticker": "002720",
+      "name": "국제약품",
+      "close": 4815.0,
+      "market_cap": 101884591080.0,
+      "trading_value": 1294965200.0
+    },
+    {
+      "ticker": "007980",
+      "name": "TP",
+      "close": 2155.0,
+      "market_cap": 101063789250.0,
+      "trading_value": 907700596.0
+    },
+    {
+      "ticker": "006890",
+      "name": "태경케미컬",
+      "close": 8710.0,
+      "market_cap": 101036000000.0,
+      "trading_value": 749635060.0
+    },
+    {
+      "ticker": "119650",
+      "name": "KC코트렐",
+      "close": 918.0,
+      "market_cap": 100782913662.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "000180",
+      "name": "성창기업지주",
+      "close": 1440.0,
+      "market_cap": 100442304000.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "058860",
+      "name": "KTis",
+      "close": 2885.0,
+      "market_cap": 100403770000.0,
+      "trading_value": 359387361.0
+    },
+    {
+      "ticker": "011150",
+      "name": "CJ씨푸드",
+      "close": 2760.0,
+      "market_cap": 99168933480.0,
+      "trading_value": 482984794.0
+    },
+    {
+      "ticker": "004060",
+      "name": "SG세계물산",
+      "close": 489.0,
+      "market_cap": 98985805440.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "010960",
+      "name": "삼호개발",
+      "close": 4085.0,
+      "market_cap": 98530200000.0,
+      "trading_value": 183747758.0
+    },
+    {
+      "ticker": "013870",
+      "name": "지엠비코리아",
+      "close": 5120.0,
+      "market_cap": 97650073600.0,
+      "trading_value": 4683533955.0
+    },
+    {
+      "ticker": "001260",
+      "name": "남광토건",
+      "close": 9930.0,
+      "market_cap": 97637439960.0,
+      "trading_value": 752322020.0
+    },
+    {
+      "ticker": "005750",
+      "name": "대림바스",
+      "close": 5810.0,
+      "market_cap": 96865714400.0,
+      "trading_value": 365590690.0
+    },
+    {
+      "ticker": "007460",
+      "name": "에이프로젠",
+      "close": 293.0,
+      "market_cap": 96486373790.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "003010",
+      "name": "혜인",
+      "close": 7530.0,
+      "market_cap": 95726984910.0,
+      "trading_value": 55388740370.0
+    },
+    {
+      "ticker": "014440",
+      "name": "영보화학",
+      "close": 4725.0,
+      "market_cap": 94500000000.0,
+      "trading_value": 353312650.0
+    },
+    {
+      "ticker": "023000",
+      "name": "삼원강재",
+      "close": 2335.0,
+      "market_cap": 93400000000.0,
+      "trading_value": 19966266.0
+    },
+    {
+      "ticker": "004440",
+      "name": "삼일씨엔에스",
+      "close": 7330.0,
+      "market_cap": 93325171510.0,
+      "trading_value": 730579070.0
+    },
+    {
+      "ticker": "071090",
+      "name": "하이스틸",
+      "close": 4600.0,
+      "market_cap": 92880766600.0,
+      "trading_value": 20802967426.0
+    },
+    {
+      "ticker": "007280",
+      "name": "한국특강",
+      "close": 1524.0,
+      "market_cap": 92679485964.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "009200",
+      "name": "무림페이퍼",
+      "close": 2225.0,
+      "market_cap": 92580714750.0,
+      "trading_value": 7242678302.0
+    },
+    {
+      "ticker": "068290",
+      "name": "삼성출판사",
+      "close": 9240.0,
+      "market_cap": 92400000000.0,
+      "trading_value": 119091100.0
+    },
+    {
+      "ticker": "101140",
+      "name": "인바이오젠",
+      "close": 9190.0,
+      "market_cap": 92306345040.0,
+      "trading_value": 654788460.0
+    },
+    {
+      "ticker": "031820",
+      "name": "아이티센씨티에스",
+      "close": 753.0,
+      "market_cap": 91151753898.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "055490",
+      "name": "테이팩스",
+      "close": 19100.0,
+      "market_cap": 91100315000.0,
+      "trading_value": 2088135055.0
+    },
+    {
+      "ticker": "004890",
+      "name": "동일산업",
+      "close": 37400.0,
+      "market_cap": 90703041000.0,
+      "trading_value": 91523000.0
+    },
+    {
+      "ticker": "085310",
+      "name": "엔케이",
+      "close": 1148.0,
+      "market_cap": 90554609656.0,
+      "trading_value": 682959496.0
+    },
+    {
+      "ticker": "000590",
+      "name": "CS홀딩스",
+      "close": 78000.0,
+      "market_cap": 90049596000.0,
+      "trading_value": 14310900.0
+    },
+    {
+      "ticker": "109070",
+      "name": "주성코퍼레이션",
+      "close": 1700.0,
+      "market_cap": 89777391000.0,
+      "trading_value": 2632170084.0
+    },
+    {
+      "ticker": "009180",
+      "name": "한솔로지스틱스",
+      "close": 3150.0,
+      "market_cap": 88690848750.0,
+      "trading_value": 497209035.0
+    },
+    {
+      "ticker": "111380",
+      "name": "동인기연",
+      "close": 14300.0,
+      "market_cap": 87630400000.0,
+      "trading_value": 181130440.0
+    },
+    {
+      "ticker": "002600",
+      "name": "조흥",
+      "close": 145500.0,
+      "market_cap": 87300000000.0,
+      "trading_value": 192432900.0
+    },
+    {
+      "ticker": "214330",
+      "name": "금호에이치티",
+      "close": 398.0,
+      "market_cap": 86782510980.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "001560",
+      "name": "제일연마",
+      "close": 11320.0,
+      "market_cap": 86032000000.0,
+      "trading_value": 155199150.0
+    },
+    {
+      "ticker": "100220",
+      "name": "비상교육",
+      "close": 6560.0,
+      "market_cap": 85258620960.0,
+      "trading_value": 1277242375.0
+    },
+    {
+      "ticker": "004720",
+      "name": "팜젠사이언스",
+      "close": 3855.0,
+      "market_cap": 84634605210.0,
+      "trading_value": 242472375.0
+    },
+    {
+      "ticker": "006880",
+      "name": "신송홀딩스",
+      "close": 7110.0,
+      "market_cap": 84103180380.0,
+      "trading_value": 827842125.0
+    },
+    {
+      "ticker": "012690",
+      "name": "모나리자",
+      "close": 2295.0,
+      "market_cap": 83931030225.0,
+      "trading_value": 1735266019.0
+    },
+    {
+      "ticker": "000850",
+      "name": "화천기공",
+      "close": 38000.0,
+      "market_cap": 83600000000.0,
+      "trading_value": 174188450.0
+    },
+    {
+      "ticker": "023810",
+      "name": "인팩",
+      "close": 8280.0,
+      "market_cap": 82800000000.0,
+      "trading_value": 365317730.0
+    },
+    {
+      "ticker": "007590",
+      "name": "동방아그로",
+      "close": 6060.0,
+      "market_cap": 82522516620.0,
+      "trading_value": 36398410.0
+    },
+    {
+      "ticker": "013700",
+      "name": "까뮤이앤씨",
+      "close": 1376.0,
+      "market_cap": 82217142080.0,
+      "trading_value": 148378822.0
+    },
+    {
+      "ticker": "011390",
+      "name": "부산산업",
+      "close": 77800.0,
+      "market_cap": 82156800000.0,
+      "trading_value": 242501000.0
+    },
+    {
+      "ticker": "010040",
+      "name": "한국내화",
+      "close": 1992.0,
+      "market_cap": 81805587504.0,
+      "trading_value": 43356598.0
+    },
+    {
+      "ticker": "018500",
+      "name": "동원금속",
+      "close": 1709.0,
+      "market_cap": 79904180497.0,
+      "trading_value": 480233433.0
+    },
+    {
+      "ticker": "001470",
+      "name": "삼부토건",
+      "close": 347.0,
+      "market_cap": 79699592928.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "006090",
+      "name": "사조오양",
+      "close": 8420.0,
+      "market_cap": 79339462380.0,
+      "trading_value": 53212770.0
+    },
+    {
+      "ticker": "009770",
+      "name": "삼정펄프",
+      "close": 31700.0,
+      "market_cap": 79249080700.0,
+      "trading_value": 61006050.0
+    },
+    {
+      "ticker": "069730",
+      "name": "DSR제강",
+      "close": 5450.0,
+      "market_cap": 78480000000.0,
+      "trading_value": 357966130.0
+    },
+    {
+      "ticker": "001550",
+      "name": "조비",
+      "close": 15110.0,
+      "market_cap": 78454731290.0,
+      "trading_value": 1642053410.0
+    },
+    {
+      "ticker": "004830",
+      "name": "덕성",
+      "close": 4975.0,
+      "market_cap": 78008000000.0,
+      "trading_value": 777688276.0
+    },
+    {
+      "ticker": "016090",
+      "name": "대현",
+      "close": 1761.0,
+      "market_cap": 77981147910.0,
+      "trading_value": 162448513.0
+    },
+    {
+      "ticker": "480370",
+      "name": "씨케이솔루션",
+      "close": 2400.0,
+      "market_cap": 77955379200.0,
+      "trading_value": 1361474872.0
+    },
+    {
+      "ticker": "058730",
+      "name": "다스코",
+      "close": 3855.0,
+      "market_cap": 76900391955.0,
+      "trading_value": 3734656870.0
+    },
+    {
+      "ticker": "004540",
+      "name": "깨끗한나라",
+      "close": 2030.0,
+      "market_cap": 75598606790.0,
+      "trading_value": 421990496.0
+    },
+    {
+      "ticker": "024900",
+      "name": "디와이덕양",
+      "close": 2305.0,
+      "market_cap": 75062278900.0,
+      "trading_value": 552211826.0
+    },
+    {
+      "ticker": "003780",
+      "name": "진양산업",
+      "close": 5710.0,
+      "market_cap": 74230000000.0,
+      "trading_value": 637791195.0
+    },
+    {
+      "ticker": "129260",
+      "name": "인터지스",
+      "close": 2485.0,
+      "market_cap": 73923466890.0,
+      "trading_value": 134380759.0
+    },
+    {
+      "ticker": "072130",
+      "name": "유엔젤",
+      "close": 5700.0,
+      "market_cap": 73504087800.0,
+      "trading_value": 742911315.0
+    },
+    {
+      "ticker": "001620",
+      "name": "케이비아이동국실업",
+      "close": 659.0,
+      "market_cap": 73342107429.0,
+      "trading_value": 344614790.0
+    },
+    {
+      "ticker": "000220",
+      "name": "유유제약",
+      "close": 4285.0,
+      "market_cap": 72983624035.0,
+      "trading_value": 220298460.0
+    },
+    {
+      "ticker": "372910",
+      "name": "한컴라이프케어",
+      "close": 2625.0,
+      "market_cap": 72645315750.0,
+      "trading_value": 2338187013.0
+    },
+    {
+      "ticker": "047400",
+      "name": "유니온머티리얼",
+      "close": 1719.0,
+      "market_cap": 72198000000.0,
+      "trading_value": 1427852921.0
+    },
+    {
+      "ticker": "155660",
+      "name": "DSR",
+      "close": 4490.0,
+      "market_cap": 71840000000.0,
+      "trading_value": 169697850.0
+    },
+    {
+      "ticker": "002140",
+      "name": "고려산업",
+      "close": 2845.0,
+      "market_cap": 70952664125.0,
+      "trading_value": 894990691.0
+    },
+    {
+      "ticker": "111110",
+      "name": "호전실업",
+      "close": 7510.0,
+      "market_cap": 70413760000.0,
+      "trading_value": 287132010.0
+    },
+    {
+      "ticker": "000910",
+      "name": "유니온",
+      "close": 4505.0,
+      "market_cap": 70330343595.0,
+      "trading_value": 428652795.0
+    },
+    {
+      "ticker": "006370",
+      "name": "대구백화점",
+      "close": 6490.0,
+      "market_cap": 70232255390.0,
+      "trading_value": 528406210.0
+    },
+    {
+      "ticker": "006980",
+      "name": "우성",
+      "close": 22650.0,
+      "market_cap": 69988500000.0,
+      "trading_value": 158988250.0
+    },
+    {
+      "ticker": "002760",
+      "name": "보락",
+      "close": 1154.0,
+      "market_cap": 69124600000.0,
+      "trading_value": 205359506.0
+    },
+    {
+      "ticker": "092440",
+      "name": "기신정기",
+      "close": 2350.0,
+      "market_cap": 68620000000.0,
+      "trading_value": 78045915.0
+    },
+    {
+      "ticker": "092780",
+      "name": "DYP",
+      "close": 5090.0,
+      "market_cap": 67027461400.0,
+      "trading_value": 463561327.0
+    },
+    {
+      "ticker": "002630",
+      "name": "오리엔트바이오",
+      "close": 565.0,
+      "market_cap": 66999397825.0,
+      "trading_value": 492856808.0
+    },
+    {
+      "ticker": "021050",
+      "name": "서원",
+      "close": 1382.0,
+      "market_cap": 65609883380.0,
+      "trading_value": 1479828442.0
+    },
+    {
+      "ticker": "049800",
+      "name": "우진플라임",
+      "close": 3240.0,
+      "market_cap": 64800000000.0,
+      "trading_value": 21075715213.0
+    },
+    {
+      "ticker": "025560",
+      "name": "미래산업",
+      "close": 14390.0,
+      "market_cap": 64505391060.0,
+      "trading_value": 525497805.0
+    },
+    {
+      "ticker": "004410",
+      "name": "서울식품",
+      "close": 163.0,
+      "market_cap": 64311672168.0,
+      "trading_value": 2503086950.0
+    },
+    {
+      "ticker": "378850",
+      "name": "화승알앤에이",
+      "close": 3375.0,
+      "market_cap": 64103477625.0,
+      "trading_value": 157836032.0
+    },
+    {
+      "ticker": "004910",
+      "name": "조광페인트",
+      "close": 5000.0,
+      "market_cap": 64000000000.0,
+      "trading_value": 223160343.0
+    },
+    {
+      "ticker": "009190",
+      "name": "대양금속",
+      "close": 1456.0,
+      "market_cap": 62888462000.0,
+      "trading_value": 609455275.0
+    },
+    {
+      "ticker": "004920",
+      "name": "씨아이테크",
+      "close": 1205.0,
+      "market_cap": 62876745760.0,
+      "trading_value": 212789687.0
+    },
+    {
+      "ticker": "011330",
+      "name": "유니켐",
+      "close": 694.0,
+      "market_cap": 62590358878.0,
+      "trading_value": 437306314.0
+    },
+    {
+      "ticker": "004770",
+      "name": "써니전자",
+      "close": 1759.0,
+      "market_cap": 62457583442.0,
+      "trading_value": 481212611.0
+    },
+    {
+      "ticker": "093240",
+      "name": "형지엘리트",
+      "close": 1012.0,
+      "market_cap": 62126942108.0,
+      "trading_value": 1167335758.0
+    },
+    {
+      "ticker": "004450",
+      "name": "삼화왕관",
+      "close": 28700.0,
+      "market_cap": 61830677300.0,
+      "trading_value": 32837900.0
+    },
+    {
+      "ticker": "041650",
+      "name": "상신브레이크",
+      "close": 2840.0,
+      "market_cap": 60978918000.0,
+      "trading_value": 105344810.0
+    },
+    {
+      "ticker": "017180",
+      "name": "명문제약",
+      "close": 1782.0,
+      "market_cap": 60505055028.0,
+      "trading_value": 270133621.0
+    },
+    {
+      "ticker": "007120",
+      "name": "미래아이앤지",
+      "close": 2095.0,
+      "market_cap": 60500683760.0,
+      "trading_value": 537356518.0
+    },
+    {
+      "ticker": "014990",
+      "name": "인디에프",
+      "close": 805.0,
+      "market_cap": 60465960975.0,
+      "trading_value": 85236541.0
+    },
+    {
+      "ticker": "000890",
+      "name": "보해양조",
+      "close": 436.0,
+      "market_cap": 60220376244.0,
+      "trading_value": 458146508.0
+    },
+    {
+      "ticker": "001210",
+      "name": "금호전기",
+      "close": 945.0,
+      "market_cap": 58476678435.0,
+      "trading_value": 2472660579.0
+    },
+    {
+      "ticker": "023350",
+      "name": "한국종합기술",
+      "close": 5330.0,
+      "market_cap": 58363500000.0,
+      "trading_value": 355700030.0
+    },
+    {
+      "ticker": "075180",
+      "name": "새론오토모티브",
+      "close": 3030.0,
+      "market_cap": 58176000000.0,
+      "trading_value": 35982465.0
+    },
+    {
+      "ticker": "123700",
+      "name": "SJM",
+      "close": 3715.0,
+      "market_cap": 57972196070.0,
+      "trading_value": 243880870.0
+    },
+    {
+      "ticker": "010770",
+      "name": "평화홀딩스",
+      "close": 3945.0,
+      "market_cap": 57697463370.0,
+      "trading_value": 66366480.0
+    },
+    {
+      "ticker": "000950",
+      "name": "전방",
+      "close": 33850.0,
+      "market_cap": 56868000000.0,
+      "trading_value": 91275000.0
+    },
+    {
+      "ticker": "133820",
+      "name": "화인베스틸",
+      "close": 1522.0,
+      "market_cap": 56488272044.0,
+      "trading_value": 134926290.0
+    },
+    {
+      "ticker": "012280",
+      "name": "영화금속",
+      "close": 1091.0,
+      "market_cap": 56365974955.0,
+      "trading_value": 322657519.0
+    },
+    {
+      "ticker": "090080",
+      "name": "평화산업",
+      "close": 1025.0,
+      "market_cap": 56274815475.0,
+      "trading_value": 273880742.0
+    },
+    {
+      "ticker": "011300",
+      "name": "우성머티리얼스",
+      "close": 354.0,
+      "market_cap": 56131591926.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "026940",
+      "name": "부국철강",
+      "close": 2790.0,
+      "market_cap": 55800000000.0,
+      "trading_value": 21848639926.0
+    },
+    {
+      "ticker": "025530",
+      "name": "SJM홀딩스",
+      "close": 3735.0,
+      "market_cap": 55778519880.0,
+      "trading_value": 93720890.0
+    },
+    {
+      "ticker": "003080",
+      "name": "SB성보",
+      "close": 2700.0,
+      "market_cap": 54054000000.0,
+      "trading_value": 44717764.0
+    },
+    {
+      "ticker": "007610",
+      "name": "선도전기",
+      "close": 3000.0,
+      "market_cap": 54000000000.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "023960",
+      "name": "에쓰씨엔지니어링",
+      "close": 1400.0,
+      "market_cap": 53250365000.0,
+      "trading_value": 132332994.0
+    },
+    {
+      "ticker": "002410",
+      "name": "범양건영",
+      "close": 1935.0,
+      "market_cap": 53173451700.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "012160",
+      "name": "영흥",
+      "close": 522.0,
+      "market_cap": 52884014184.0,
+      "trading_value": 336506557.0
+    },
+    {
+      "ticker": "027740",
+      "name": "마니커",
+      "close": 822.0,
+      "market_cap": 52206229416.0,
+      "trading_value": 236452499.0
+    },
+    {
+      "ticker": "006490",
+      "name": "인스코비",
+      "close": 414.0,
+      "market_cap": 52116852438.0,
+      "trading_value": 335987674.0
+    },
+    {
+      "ticker": "009320",
+      "name": "아진전자부품",
+      "close": 1047.0,
+      "market_cap": 51616859190.0,
+      "trading_value": 130408189.0
+    },
+    {
+      "ticker": "011420",
+      "name": "갤럭시아에스엠",
+      "close": 1864.0,
+      "market_cap": 51352536416.0,
+      "trading_value": 177028747.0
+    },
+    {
+      "ticker": "020760",
+      "name": "일진디스플",
+      "close": 902.0,
+      "market_cap": 50984432422.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "008420",
+      "name": "문배철강",
+      "close": 2460.0,
+      "market_cap": 50438622300.0,
+      "trading_value": 1380513647.0
+    },
+    {
+      "ticker": "003060",
+      "name": "에이프로젠바이오로직스",
+      "close": 251.0,
+      "market_cap": 49800369095.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "002920",
+      "name": "유성기업",
+      "close": 1907.0,
+      "market_cap": 49481882500.0,
+      "trading_value": 95460196.0
+    },
+    {
+      "ticker": "001380",
+      "name": "SG글로벌",
+      "close": 1098.0,
+      "market_cap": 49370629014.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "011230",
+      "name": "삼화전자",
+      "close": 2530.0,
+      "market_cap": 48489436050.0,
+      "trading_value": 253788293.0
+    },
+    {
+      "ticker": "308170",
+      "name": "씨티알모빌리티",
+      "close": 5590.0,
+      "market_cap": 48129900000.0,
+      "trading_value": 77433900.0
+    },
+    {
+      "ticker": "051630",
+      "name": "진양화학",
+      "close": 2230.0,
+      "market_cap": 47276000000.0,
+      "trading_value": 418931535.0
+    },
+    {
+      "ticker": "069460",
+      "name": "대호에이엘",
+      "close": 532.0,
+      "market_cap": 46322278464.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "008250",
+      "name": "이건산업",
+      "close": 4190.0,
+      "market_cap": 45891540650.0,
+      "trading_value": 116369891.0
+    },
+    {
+      "ticker": "008870",
+      "name": "금비",
+      "close": 45500.0,
+      "market_cap": 45500000000.0,
+      "trading_value": 33663150.0
+    },
+    {
+      "ticker": "000760",
+      "name": "이화산업",
+      "close": 16140.0,
+      "market_cap": 45192000000.0,
+      "trading_value": 80675470.0
+    },
+    {
+      "ticker": "005030",
+      "name": "부산주공",
+      "close": 486.0,
+      "market_cap": 45092532168.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "074610",
+      "name": "이엔플러스",
+      "close": 5110.0,
+      "market_cap": 44815400070.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "002880",
+      "name": "디와이에이",
+      "close": 941.0,
+      "market_cap": 44014329295.0,
+      "trading_value": 78977138.0
+    },
+    {
+      "ticker": "002360",
+      "name": "SH에너지화학",
+      "close": 395.0,
+      "market_cap": 43897823350.0,
+      "trading_value": 693981791.0
+    },
+    {
+      "ticker": "025750",
+      "name": "한솔홈데코",
+      "close": 539.0,
+      "market_cap": 43424615311.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "465770",
+      "name": "STX그린로지스",
+      "close": 5990.0,
+      "market_cap": 42954481680.0,
+      "trading_value": 1403855050.0
+    },
+    {
+      "ticker": "084870",
+      "name": "TBH글로벌",
+      "close": 2050.0,
+      "market_cap": 42756478950.0,
+      "trading_value": 72018155.0
+    },
+    {
+      "ticker": "019490",
+      "name": "엑시큐어하이트론",
+      "close": 541.0,
+      "market_cap": 41349858070.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "002870",
+      "name": "신풍",
+      "close": 1176.0,
+      "market_cap": 41111431200.0,
+      "trading_value": 210415641.0
+    },
+    {
+      "ticker": "017040",
+      "name": "광명전기",
+      "close": 932.0,
+      "market_cap": 40390657180.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "134790",
+      "name": "시디즈",
+      "close": 19810.0,
+      "market_cap": 39620000000.0,
+      "trading_value": 34828570.0
+    },
+    {
+      "ticker": "010640",
+      "name": "진양폴리",
+      "close": 2370.0,
+      "market_cap": 39579000000.0,
+      "trading_value": 147075134.0
+    },
+    {
+      "ticker": "000040",
+      "name": "KR모터스",
+      "close": 457.0,
+      "market_cap": 39473459088.0,
+      "trading_value": 118139377.0
+    },
+    {
+      "ticker": "005820",
+      "name": "원림",
+      "close": 16830.0,
+      "market_cap": 38674835100.0,
+      "trading_value": 182857440.0
+    },
+    {
+      "ticker": "118000",
+      "name": "메타케어",
+      "close": 223.0,
+      "market_cap": 38306352172.0,
+      "trading_value": 334145912.0
+    },
+    {
+      "ticker": "014910",
+      "name": "성문전자",
+      "close": 1717.0,
+      "market_cap": 37528910269.0,
+      "trading_value": 305888810.0
+    },
+    {
+      "ticker": "006200",
+      "name": "한국전자홀딩스",
+      "close": 799.0,
+      "market_cap": 37395705664.0,
+      "trading_value": 734491389.0
+    },
+    {
+      "ticker": "009140",
+      "name": "경인전자",
+      "close": 23550.0,
+      "market_cap": 36992269350.0,
+      "trading_value": 108117000.0
+    },
+    {
+      "ticker": "090370",
+      "name": "메타랩스",
+      "close": 1478.0,
+      "market_cap": 36809130342.0,
+      "trading_value": 55230227.0
+    },
+    {
+      "ticker": "005320",
+      "name": "온타이드",
+      "close": 534.0,
+      "market_cap": 36512618460.0,
+      "trading_value": 60690852.0
+    },
+    {
+      "ticker": "006740",
+      "name": "블루산업개발",
+      "close": 636.0,
+      "market_cap": 36236473968.0,
+      "trading_value": 171347327.0
+    },
+    {
+      "ticker": "023150",
+      "name": "MH에탄올",
+      "close": 4850.0,
+      "market_cap": 35785851100.0,
+      "trading_value": 329241985.0
+    },
+    {
+      "ticker": "009810",
+      "name": "플레이그램",
+      "close": 1173.0,
+      "market_cap": 35632807500.0,
+      "trading_value": 156485323.0
+    },
+    {
+      "ticker": "002420",
+      "name": "세기상사",
+      "close": 5940.0,
+      "market_cap": 35461491120.0,
+      "trading_value": 187246670.0
+    },
+    {
+      "ticker": "001070",
+      "name": "대한방직",
+      "close": 6680.0,
+      "market_cap": 35404000000.0,
+      "trading_value": 95862270.0
+    },
+    {
+      "ticker": "013000",
+      "name": "세우글로벌",
+      "close": 1212.0,
+      "market_cap": 34790497572.0,
+      "trading_value": 250965430.0
+    },
+    {
+      "ticker": "004870",
+      "name": "티웨이홀딩스",
+      "close": 307.0,
+      "market_cap": 34741192658.0,
+      "trading_value": 235506083.0
+    },
+    {
+      "ticker": "002690",
+      "name": "동일제강",
+      "close": 1704.0,
+      "market_cap": 34591813440.0,
+      "trading_value": 237252128.0
+    },
+    {
+      "ticker": "024890",
+      "name": "대원화성",
+      "close": 830.0,
+      "market_cap": 34236796160.0,
+      "trading_value": 207456119.0
+    },
+    {
+      "ticker": "446070",
+      "name": "유니드비티플러스",
+      "close": 3225.0,
+      "market_cap": 34221168375.0,
+      "trading_value": 108043435.0
+    },
+    {
+      "ticker": "014130",
+      "name": "한익스프레스",
+      "close": 2840.0,
+      "market_cap": 34080000000.0,
+      "trading_value": 84627515.0
+    },
+    {
+      "ticker": "088790",
+      "name": "진도",
+      "close": 2715.0,
+      "market_cap": 33795624960.0,
+      "trading_value": 91411975.0
+    },
+    {
+      "ticker": "015260",
+      "name": "에이엔피",
+      "close": 709.0,
+      "market_cap": 33405877846.0,
+      "trading_value": 999232014.0
+    },
+    {
+      "ticker": "005360",
+      "name": "모나미",
+      "close": 1754.0,
+      "market_cap": 33145876478.0,
+      "trading_value": 82915074.0
+    },
+    {
+      "ticker": "009460",
+      "name": "한창제지",
+      "close": 539.0,
+      "market_cap": 32160774954.0,
+      "trading_value": 298432126.0
+    },
+    {
+      "ticker": "003680",
+      "name": "한성기업",
+      "close": 5160.0,
+      "market_cap": 32041097400.0,
+      "trading_value": 138693810.0
+    },
+    {
+      "ticker": "033250",
+      "name": "체시스",
+      "close": 999.0,
+      "market_cap": 31968000000.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "010400",
+      "name": "우진아이엔에스",
+      "close": 4185.0,
+      "market_cap": 31898070000.0,
+      "trading_value": 68605710.0
+    },
+    {
+      "ticker": "024070",
+      "name": "WISCOM",
+      "close": 2040.0,
+      "market_cap": 31265933520.0,
+      "trading_value": 37318665.0
+    },
+    {
+      "ticker": "006570",
+      "name": "대림통상",
+      "close": 2015.0,
+      "market_cap": 30678375000.0,
+      "trading_value": 13038162.0
+    },
+    {
+      "ticker": "002820",
+      "name": "SUN&L",
+      "close": 2430.0,
+      "market_cap": 30637413270.0,
+      "trading_value": 192005000.0
+    },
+    {
+      "ticker": "030720",
+      "name": "동원수산",
+      "close": 6530.0,
+      "market_cap": 30389346650.0,
+      "trading_value": 108928110.0
+    },
+    {
+      "ticker": "069640",
+      "name": "한세엠케이",
+      "close": 660.0,
+      "market_cap": 29572291320.0,
+      "trading_value": 16591110.0
+    },
+    {
+      "ticker": "044380",
+      "name": "주연테크",
+      "close": 442.0,
+      "market_cap": 28500859244.0,
+      "trading_value": 2291812754.0
+    },
+    {
+      "ticker": "012170",
+      "name": "아센디오",
+      "close": 1445.0,
+      "market_cap": 28023312720.0,
+      "trading_value": 48886450.0
+    },
+    {
+      "ticker": "004270",
+      "name": "남성",
+      "close": 753.0,
+      "market_cap": 27267756480.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "005110",
+      "name": "한창",
+      "close": 1254.0,
+      "market_cap": 26467434378.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "143210",
+      "name": "핸즈코퍼레이션",
+      "close": 1199.0,
+      "market_cap": 26229020653.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "002210",
+      "name": "동성제약",
+      "close": 973.0,
+      "market_cap": 25900780311.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "011090",
+      "name": "에넥스",
+      "close": 425.0,
+      "market_cap": 25496447425.0,
+      "trading_value": 113596725.0
+    },
+    {
+      "ticker": "025890",
+      "name": "한국주강",
+      "close": 2145.0,
+      "market_cap": 24258360555.0,
+      "trading_value": 101960519.0
+    },
+    {
+      "ticker": "009310",
+      "name": "참엔지니어링",
+      "close": 1065.0,
+      "market_cap": 23307603810.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "001420",
+      "name": "태원물산",
+      "close": 3000.0,
+      "market_cap": 22800000000.0,
+      "trading_value": 34285662.0
+    },
+    {
+      "ticker": "001770",
+      "name": "SHD",
+      "close": 17260.0,
+      "market_cap": 20968794280.0,
+      "trading_value": 7121800.0
+    },
+    {
+      "ticker": "071950",
+      "name": "코아스",
+      "close": 1615.0,
+      "market_cap": 20121599925.0,
+      "trading_value": 233869997.0
+    },
+    {
+      "ticker": "015020",
+      "name": "이스타코",
+      "close": 464.0,
+      "market_cap": 19883142400.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "008600",
+      "name": "윌비스",
+      "close": 2620.0,
+      "market_cap": 17615839860.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "009440",
+      "name": "KC그린홀딩스",
+      "close": 756.0,
+      "market_cap": 17568790596.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "008500",
+      "name": "일정실업",
+      "close": 2915.0,
+      "market_cap": 17490000000.0,
+      "trading_value": 178244285.0
+    },
+    {
+      "ticker": "002070",
+      "name": "비비안",
+      "close": 355.0,
+      "market_cap": 16044607335.0,
+      "trading_value": 0.0
+    },
+    {
+      "ticker": "152550",
+      "name": "한국ANKOR유전",
+      "close": 190.0,
+      "market_cap": 13303800000.0,
+      "trading_value": 1301725483.0
+    },
+    {
+      "ticker": "145210",
+      "name": "다이나믹디자인",
+      "close": 224.0,
+      "market_cap": 9461013632.0,
+      "trading_value": 0.0
+    }
+  ]
+}

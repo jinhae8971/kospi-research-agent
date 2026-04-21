@@ -1,0 +1,344 @@
+{
+  "date": "2026-04-20",
+  "generated_at": "2026-04-21T22:41:41.010565Z",
+  "market_type": "KOSPI",
+  "gainers": [
+    {
+      "ticker": "336370",
+      "name": "솔루스첨단소재",
+      "market": "KOSPI",
+      "close": 13880.0,
+      "market_cap": 974616734720.0,
+      "trading_value": 67214947015.0,
+      "volume": 5072608,
+      "change_pct_1d": 26.07,
+      "change_pct_nd": 26.07,
+      "price_n_days_ago": null,
+      "market_cap_rank": 244
+    },
+    {
+      "ticker": "006400",
+      "name": "삼성SDI",
+      "market": "KOSPI",
+      "close": 645000.0,
+      "market_cap": 51977666850000.0,
+      "trading_value": 1552350939500.0,
+      "volume": 2533682,
+      "change_pct_1d": 19.89,
+      "change_pct_nd": 19.89,
+      "price_n_days_ago": null,
+      "market_cap_rank": 13
+    },
+    {
+      "ticker": "443060",
+      "name": "HD현대마린솔루션",
+      "market": "KOSPI",
+      "close": 230000.0,
+      "market_cap": 10311207050000.0,
+      "trading_value": 156302987400.0,
+      "volume": 718701,
+      "change_pct_1d": 17.53,
+      "change_pct_nd": 17.53,
+      "price_n_days_ago": null,
+      "market_cap_rank": 69
+    },
+    {
+      "ticker": "047040",
+      "name": "대우건설",
+      "market": "KOSPI",
+      "close": 32850.0,
+      "market_cap": 13498315908300.0,
+      "trading_value": 3083730978225.0,
+      "volume": 94465084,
+      "change_pct_1d": 16.9,
+      "change_pct_nd": 16.9,
+      "price_n_days_ago": null,
+      "market_cap_rank": 59
+    },
+    {
+      "ticker": "092220",
+      "name": "KEC",
+      "market": "KOSPI",
+      "close": 1418.0,
+      "market_cap": 284682133938.0,
+      "trading_value": 69380283036.0,
+      "volume": 49688438,
+      "change_pct_1d": 15.94,
+      "change_pct_nd": 15.94,
+      "price_n_days_ago": null,
+      "market_cap_rank": 428
+    }
+  ],
+  "analyses": [
+    {
+      "ticker": "336370",
+      "name": "솔루스첨단소재",
+      "pump_thesis": "배터리 전지박(동박) 매출 성장세 전환 기대감과 2차전지 섹터 전반의 반등 사이클 진입 모멘텀이 맞물리며 단기 급등.",
+      "drivers": [
+        "이데일리 보도에 따르면 배터리 전지박 매출이 성장세로 전환되고 있다는 실적 개선 기대감이 직접적 촉매로 작용, 당일 16% 이상 급등 후 추가 상승",
+        "LG엔솔·삼성SDI 등 대형 2차전지주가 8% 이상 강세를 보이며 섹터 전반에 매수세가 유입, 소재·부품 업체인 솔루스첨단소재까지 순환매 수혜",
+        "'꿈의 배터리(전고체 등)' 관련 니켈도금 동박 선점 경쟁 보도로 중장기 성장 내러티브 강화"
+      ],
+      "risks": [
+        "매출 성장세 전환 기대가 실제 분기 실적으로 확인되지 않을 경우 단기 급등분 되돌림 가능성 높음",
+        "2차전지 섹터 반등이 일시적 숏커버링·순환매에 그칠 경우 소재 업체는 대형주 대비 낙폭 확대 위험",
+        "글로벌 전기차 수요 둔화 지속 시 고객사 발주 감소로 동박 가동률 회복 지연 리스크"
+      ],
+      "sector_tags": [
+        "2차전지",
+        "화학"
+      ],
+      "confidence": 0.72,
+      "news_used": [
+        {
+          "title": "[애프터마켓 브리핑] 코스피, 6380선 돌파…역대 최고치 경신",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0000505791&office_id=374&code=336370&page=1&sm=title_entity_id.basic",
+          "source": "SBS Biz",
+          "published_at": "2026.04.21 16:50"
+        },
+        {
+          "title": "[서울데이터랩] 코스피 마감시황 6388p로 사상 최고치로 마감",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0003637310&office_id=081&code=336370&page=1&sm=title_entity_id.basic",
+          "source": "서울신문",
+          "published_at": "2026.04.21 16:11"
+        },
+        {
+          "title": "\"배터리 전지박 매출 성장세 전환\"…솔루스첨단소재 16%↑[특징주]",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0006262390&office_id=018&code=336370&page=1&sm=title_entity_id.basic",
+          "source": "이데일리",
+          "published_at": "2026.04.21 09:55"
+        },
+        {
+          "title": "2차전지 반등 사이클 돌아오나…LG엔솔·삼성SDI 8%대 강세",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0005346961&office_id=008&code=336370&page=1&sm=title_entity_id.basic",
+          "source": "머니투데이",
+          "published_at": "2026.04.21 09:38"
+        },
+        {
+          "title": "'꿈의 배터리' 올라탄 동박 3사…니켈도금 동박 선점전 가열",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0003419159&office_id=030&code=336370&page=1&sm=title_entity_id.basic",
+          "source": "전자신문",
+          "published_at": "2026.04.19 11:01"
+        }
+      ]
+    },
+    {
+      "ticker": "006400",
+      "name": "삼성SDI",
+      "pump_thesis": "'K배터리 부활' 내러티브 속 LG엔솔 등 동반 강세로 2차전지 대형주 전반에 대규모 매수세가 유입되며 20% 가까운 급등 실현.",
+      "drivers": [
+        "서울경제 보도 'K배터리 부활 신호탄' 헤드라인과 함께 LG엔솔이 현대차 시총을 추월하는 사건이 섹터 투자심리를 급격히 개선, 삼성SDI에도 동반 수급 집중",
+        "코스피 사상 최고치(6,388p) 경신 흐름에서 외국인 1조원 이상 순매수가 확인되며 대형주 중심 수급 유입, 삼성SDI는 시총 13위 우량주로 직접 수혜",
+        "미-이란 협상 기대 등 지정학적 긴장 완화 분위기가 위험자산 선호 심리를 자극, 그간 소외됐던 2차전지 대형주로 섹터 로테이션 발생"
+      ],
+      "risks": [
+        "전기차 수요 회복 속도가 시장 기대치를 하회할 경우 밸류에이션 재평가 모멘텀 급속 소멸 위험",
+        "외국인 순매수세가 반도체·AI 섹터로 재전환될 경우 2차전지 대형주 수급 급격히 악화 가능",
+        "트럼프발 관세·통상 정책 변동성이 지속될 경우 북미 배터리 공장 투자 계획 차질 및 실적 가이던스 하향 리스크"
+      ],
+      "sector_tags": [
+        "2차전지"
+      ],
+      "confidence": 0.78,
+      "news_used": [
+        {
+          "title": "[마켓 프리뷰] 코스피, 협상 불안 속 외인 1조 매수에 사상 최고치",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0000505859&office_id=374&code=006400&page=1&sm=title_entity_id.basic",
+          "source": "SBS Biz",
+          "published_at": "2026.04.22 07:27"
+        },
+        {
+          "title": "[스타트 브리핑] 억' 소리 나는 삼전닉스 성과급...'반도체 셔세권'...",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0002344031&office_id=052&code=006400&page=1&sm=title_entity_id.basic",
+          "source": "YTN",
+          "published_at": "2026.04.22 07:06"
+        },
+        {
+          "title": "코스피 사상 최고치 달성…4월 수출액 역대 최고 [한강로 경제브리핑.....",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0004122759&office_id=022&code=006400&page=1&sm=title_entity_id.basic",
+          "source": "세계일보",
+          "published_at": "2026.04.22 07:02"
+        },
+        {
+          "title": "트럼프 ‘휴전 연장’ 변수…SK하닉ㆍ삼전 실적 장세 흔들까",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0003023012&office_id=029&code=006400&page=1&sm=title_entity_id.basic",
+          "source": "디지털타임스",
+          "published_at": "2026.04.22 06:35"
+        },
+        {
+          "title": "“K배터리 부활 신호탄”…LG엔솔, 현대차 시총 제쳤다 [마켓시그널]",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0004613231&office_id=011&code=006400&page=1&sm=title_entity_id.basic",
+          "source": "서울경제",
+          "published_at": "2026.04.22 06:31"
+        }
+      ]
+    },
+    {
+      "ticker": "443060",
+      "name": "HD현대마린솔루션",
+      "pump_thesis": "HD현대重 등 조선 대형주의 실적 청신호 보도와 함께 조선 서비스·유지보수(MRO) 사업 모델의 실적 안정성이 부각되며 섹터 순환매 수혜.",
+      "drivers": [
+        "뉴스1 보도에서 'HD현대重 8%·삼성重 5% 상승'으로 조선 대형주 실적 개선이 확인되며 그룹 내 MRO·솔루션 자회사인 HD현대마린솔루션으로 순환매 유입",
+        "코스피 사상 최고치 랠리 속 대형 조선주 강세가 계열사 밸류에이션 재평가 모멘텀으로 연결, 상대적으로 저평가된 서비스 부문에 매수세 집중",
+        "중동 지정학 긴장 지속으로 해운·선박 수요 증가 기대감이 선박 유지보수·솔루션 사업 수혜 내러티브를 강화"
+      ],
+      "risks": [
+        "블로터 보도에서 언급된 블록딜 및 공매도 재개 관련 변동성 리스크가 잠재, 주가 급등 이후 블록딜 출회 가능성 상존",
+        "모회사 HD현대重의 실적 모멘텀이 꺾일 경우 계열사 밸류에이션 프리미엄 소멸 위험",
+        "IPO 이후 보호예수 해제 물량 출회 가능성 및 외국인 매도 전환 시 유동성 리스크"
+      ],
+      "sector_tags": [
+        "조선"
+      ],
+      "confidence": 0.68,
+      "news_used": [
+        {
+          "title": "[애프터마켓 브리핑] 코스피, 6380선 돌파…역대 최고치 경신",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0000505791&office_id=374&code=443060&page=1&sm=title_entity_id.basic",
+          "source": "SBS Biz",
+          "published_at": "2026.04.21 16:50"
+        },
+        {
+          "title": "미국-이란 2차 협상 기대감 속 코스피 6380선 돌파… SK하이닉스 ...",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0000135944&office_id=310&code=443060&page=1&sm=title_entity_id.basic",
+          "source": "여성신문",
+          "published_at": "2026.04.21 16:42"
+        },
+        {
+          "title": "[서울데이터랩] 코스피 마감시황 6388p로 사상 최고치로 마감",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0003637310&office_id=081&code=443060&page=1&sm=title_entity_id.basic",
+          "source": "서울신문",
+          "published_at": "2026.04.21 16:11"
+        },
+        {
+          "title": "[전쟁 후 공매도]④ HD현대마린솔루션, 변동성·블록딜에 '울상'",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0000083157&office_id=293&code=443060&page=1&sm=title_entity_id.basic",
+          "source": "블로터",
+          "published_at": "2026.04.21 15:07"
+        },
+        {
+          "title": "조선주 실적 청신호…HD현대重 8%·삼성重 5%↑[핫종목]",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0008902811&office_id=421&code=443060&page=1&sm=title_entity_id.basic",
+          "source": "뉴스1",
+          "published_at": "2026.04.21 14:32"
+        }
+      ]
+    },
+    {
+      "ticker": "047040",
+      "name": "대우건설",
+      "pump_thesis": "코스피 사상 최고치 경신과 증시 과열(빚투 34조) 환경에서 저가·고유동성 건설주로 단기 투기성 자금이 대거 유입되며 급등.",
+      "drivers": [
+        "코스피 사상 최고치 달성과 함께 빚투(신용융자) 자금이 34조 사상 최고치를 기록하는 과열 장세에서 저가주이자 유동성이 풍부한 대우건설에 단기 투기성 매수 집중 (거래대금 3,083억원, 거래량 9,446만주로 극단적 유동성 유입 확인)",
+        "서울데이터랩 보도에서 '대한전선·대우건설 급등'이 거래 상위 종목으로 반복 언급, 모멘텀 추종 매매 가속화",
+        "중동 관련 해외 건설 수주 기대감 및 분양시장 초고층 공급 확대 등 건설 경기 개선 기대가 저변에 작용"
+      ],
+      "risks": [
+        "명확한 개별 실적 촉매 없이 시장 과열 분위기에 편승한 투기성 급등으로, 빚투 자금 청산 시 급격한 주가 되돌림(마진콜) 위험이 매우 높음",
+        "하반기 중동 리스크 변수 및 국내 PF(프로젝트 파이낸싱) 부실 우려 재부각 시 건설 섹터 전체 신뢰도 훼손 가능",
+        "1분기 실적 발표 시 시장 기대치 하회 가능성, 특히 해외 수주 마진 악화 및 국내 분양 원가 상승 압박"
+      ],
+      "sector_tags": [
+        "건설"
+      ],
+      "confidence": 0.45,
+      "news_used": [
+        {
+          "title": "건설업계, 1분기 실적 희비 전망…하반기 중동 리스크 변수",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0003083121&office_id=119&code=047040&page=1&sm=title_entity_id.basic",
+          "source": "데일리안",
+          "published_at": "2026.04.22 07:02"
+        },
+        {
+          "title": "[인사이드 스토리]뒤틀린 재건축 수주경쟁…뭘 믿어야 하나요?",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0000046472&office_id=648&code=047040&page=1&sm=title_entity_id.basic",
+          "source": "비즈워치",
+          "published_at": "2026.04.22 06:36"
+        },
+        {
+          "title": "김포 풍무역세권 2차 분양…상한제·탈서울 수요 동시 작용",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0008903897&office_id=421&code=047040&page=1&sm=title_entity_id.basic",
+          "source": "뉴스1",
+          "published_at": "2026.04.22 06:05"
+        },
+        {
+          "title": "분양시장 이끄는 '초고층'…4~5월 35층 이상 공급 잇달아",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0013901699&office_id=003&code=047040&page=1&sm=title_entity_id.basic",
+          "source": "뉴시스",
+          "published_at": "2026.04.22 04:30"
+        },
+        {
+          "title": "증시로 다시 돈 몰린다… 빚투 자금도 34조 ‘사상 최고치’",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0001844594&office_id=005&code=047040&page=1&sm=title_entity_id.basic",
+          "source": "국민일보",
+          "published_at": "2026.04.22 00:18"
+        }
+      ]
+    },
+    {
+      "ticker": "092220",
+      "name": "KEC",
+      "pump_thesis": "대우건설·대한전선 등 인접 저가 KOSPI 소형주 급등 흐름에 편승한 투기성 동조 매수로, 뚜렷한 개별 촉매 없이 유동성 노이즈 성 급등.",
+      "drivers": [
+        "서울데이터랩이 'KEC'를 코스피 거래량 상위 종목으로 반복 언급하며 단기 모멘텀 추종 매매가 집중, 거래량 4,968만주로 시가총액 대비 극단적 회전율 기록",
+        "대우건설·대한전선 등 동일 시기 저가 KOSPI 소형주군의 동반 급등 흐름에서 유사 저가 반도체 부품·소재주로 순환 투기 자금 유입",
+        "코스피 사상 최고치 장세에서 소외 저가주에 대한 단기 차익 목적 수급 유입 패턴"
+      ],
+      "risks": [
+        "시가총액 2,847억원의 소형주로 유동성이 얇아 수급 이탈 시 낙폭이 상승폭보다 크게 나타날 수 있는 구조적 취약성",
+        "실적 개선 또는 사업 촉매 등 펀더멘털 근거가 전무한 상태에서 테마 소멸 시 원상 복귀 가능성 매우 높음",
+        "빚투 과열 환경에서 신용 매수 유입 후 반대매매 집중 시 추가 하락 위험, 공매도 재개 이후 타깃이 될 가능성"
+      ],
+      "sector_tags": [
+        "기타"
+      ],
+      "confidence": 0.25,
+      "news_used": [
+        {
+          "title": "[서울데이터랩]코스피 거래상위 종목 강세…대한전선·대우건설 급등...",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0003635553&office_id=081&code=092220&page=1&sm=title_entity_id.basic",
+          "source": "서울신문",
+          "published_at": "2026.04.15 12:57"
+        },
+        {
+          "title": "[서울데이터랩]금일 코스피 거래량 1위 남선알미늄 거래대금 4천억 돌....",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0003634732&office_id=081&code=092220&page=1&sm=title_entity_id.basic",
+          "source": "서울신문",
+          "published_at": "2026.04.13 13:22"
+        },
+        {
+          "title": "[서울데이터랩]금일 코스피 거래량 1위 남선알미늄 거래대금 1,986억...",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0003633829&office_id=081&code=092220&page=1&sm=title_entity_id.basic",
+          "source": "서울신문",
+          "published_at": "2026.04.09 14:05"
+        },
+        {
+          "title": "[서울데이터랩]‘광전자’ 16.17% 급등…실시간 상승률 1위",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0003633733&office_id=081&code=092220&page=1&sm=title_entity_id.basic",
+          "source": "서울신문",
+          "published_at": "2026.04.09 09:38"
+        },
+        {
+          "title": "[서울데이터랩]금일 코스피 거래량 1위 대우건설 거래대금 무려 1조 6...",
+          "url": "https://finance.naver.com/item/news_read.naver?article_id=0003633414&office_id=081&code=092220&page=1&sm=title_entity_id.basic",
+          "source": "서울신문",
+          "published_at": "2026.04.08 12:45"
+        }
+      ]
+    }
+  ],
+  "narrative": {
+    "current_narrative": "한국 증시는 'K배터리 부활' 내러티브를 중심으로 2차전지 대형주에 대규모 외국인·기관 매수세가 집중되는 가운데, 조선 MRO 실적 가시성도 동반 부각되며 실적 기반 순환매가 진행 중이다.",
+    "hot_sectors": [
+      "2차전지",
+      "조선",
+      "반도체"
+    ],
+    "cooling_sectors": [
+      "방산",
+      "바이오/제약"
+    ],
+    "investment_insight": "현 시점에서는 2차전지 대형주(삼성SDI, LG엔솔 등)를 중심으로 비중 확대 포지션을 유지하되, 솔루스첨단소재 등 소재·부품주의 실적 턴어라운드 확인 시 추가 편입을 고려할 수 있다. 조선 MRO(HD현대마린솔루션)도 실적 안정성 프리미엄이 지속될 수 있어 소규모 롱 포지션을 유지할 만하다. 반면 대우건설·KEC 등 유동성 테마 편승 종목은 빚투 과열 환경에서 변동성 리스크가 크므로 회피하고, 외국인 순매수 흐름이 2차전지에서 이탈하거나 글로벌 전기차 수요 둔화 뉴스가 출현할 경우 이 내러티브의 무효화 신호로 즉각 대응해야 한다.",
+    "week_over_week_change": "전일(4/17)에는 반도체(DB하이텍 신고가)·방산·바이오 테마가 상위권을 주도했으나, 오늘은 2차전지(삼성SDI·솔루스첨단소재) 대형주로 수급이 대거 이동하며 섹터 로테이션이 뚜렷하게 나타났다. 방산·바이오는 하루 만에 상위권에서 탈락했고, 건설·기타 종목의 급등은 시장 과열 속 투기성 유동성 노이즈로 판단된다."
+  }
+}
