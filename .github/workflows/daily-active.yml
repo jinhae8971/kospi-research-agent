@@ -1,0 +1,135 @@
+name: Daily KOSPI Research
+
+on:
+  schedule:
+    # 06:00 KST = 21:00 UTC (previous day)
+    # Data refresh runs daily; Telegram is sent only on Saturday 06:00 KST.
+    - cron: '0 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-research
+  cancel-in-progress: false
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Determine Telegram delivery
+        id: telegram_gate
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$(TZ=Asia/Seoul date +%u)" = "6" ]; then
+            echo "send=true" >> "$GITHUB_OUTPUT"
+            echo "Telegram report enabled for Saturday 06:00 KST"
+          else
+            echo "send=false" >> "$GITHUB_OUTPUT"
+            echo "Telegram report disabled for this run"
+          fi
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e .
+
+      - name: Run daily pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SEND_TELEGRAM: ${{ steps.telegram_gate.outputs.send }}
+          DASHBOARD_URL: ${{ vars.DASHBOARD_URL }}
+          MARKET: ${{ vars.MARKET || 'KOSPI' }}
+        run: |
+          set -o pipefail
+          if [ "$SEND_TELEGRAM" != "true" ]; then
+            unset TELEGRAM_BOT_TOKEN TELEGRAM_CHAT_ID
+          fi
+          python -m src.main 2>&1 | tee /tmp/pipeline.log || {
+            ERRTAIL=$(tail -20 /tmp/pipeline.log | head -c 1000)
+            if [ "$SEND_TELEGRAM" = "true" ]; then
+              MSG="⚠️ KOSPI 에러:%0A${ERRTAIL}"
+              curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+                -d chat_id="${TELEGRAM_CHAT_ID}" -d text="${MSG}" || true
+            else
+              echo "Pipeline failed; Telegram disabled for this run"
+            fi
+            exit 1
+          }
+
+      - name: Commit reports & snapshots
+        run: |
+          git config user.name  "kospi-research-bot"
+          git config user.email "kospi-research-bot@users.noreply.github.com"
+          git add docs/reports data/snapshots
+          if git diff --staged --quiet; then
+            echo "no changes to commit"
+          else
+            git commit -m "chore: daily report $(date -u +%F)"
+            push_ok=false
+            for i in 1 2 3 4 5; do
+              if git push; then
+                echo "push succeeded on attempt $i"
+                push_ok=true
+                break
+              fi
+              echo "push attempt $i failed — pulling with rebase..."
+              git fetch origin main
+              if ! git rebase origin/main; then
+                echo "::warning::rebase conflict detected — aborting rebase"
+                git rebase --abort || true
+              fi
+              sleep $((2 ** (i + 1)))
+            done
+            if [ "$push_ok" = false ]; then
+              echo "::error::git push failed after 5 retries (even with rebase)"
+              exit 1
+            fi
+          fi
+
+      - name: Notify failure
+        if: failure() && steps.telegram_gate.outputs.send == 'true'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          MSG="⚠️ KOSPI Research Agent pipeline failed on $(date -u +%F)%0ACheck: https://github.com/jinhae8971/kospi-research-agent/actions"
+          curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d chat_id="${TELEGRAM_CHAT_ID}" \
+            -d text="${MSG}" \
+            -d parse_mode="HTML" || true
+
+  deploy-pages:
+    needs: research
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./docs
+      - id: deployment
+        uses: actions/deploy-pages@v4
